@@ -1,0 +1,386 @@
+{
+  "timestamp": "20251030_005733",
+  "language": "Spanish",
+  "pairs_tested": 30,
+  "validation_results": [
+    {
+      "pair_id": "es_000",
+      "combined_score": "0.040488165",
+      "classification": "moderate",
+      "duration_diff": 0.04281345565749235,
+      "energy_diff": "0.038162876"
+    },
+    {
+      "pair_id": "es_001",
+      "combined_score": "0.018166864",
+      "classification": "moderate",
+      "duration_diff": 0.020128087831655993,
+      "energy_diff": "0.01620564"
+    },
+    {
+      "pair_id": "es_002",
+      "combined_score": "0.00800907",
+      "classification": "moderate",
+      "duration_diff": 0.007017543859649123,
+      "energy_diff": "0.009000595"
+    },
+    {
+      "pair_id": "es_003",
+      "combined_score": "0.0015211748",
+      "classification": "moderate",
+      "duration_diff": 0.002583979328165375,
+      "energy_diff": "0.00045837014"
+    },
+    {
+      "pair_id": "es_004",
+      "combined_score": "0.01744835",
+      "classification": "moderate",
+      "duration_diff": 0.022222222222222223,
+      "energy_diff": "0.012674478"
+    }
+  ],
+  "asr_results": [
+    {
+      "pair_id": "es_000",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_001",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_002",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_003",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_004",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_005",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_006",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_007",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_008",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_009",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_010",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_011",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_012",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_013",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_014",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_015",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_016",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_017",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_018",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_019",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_020",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 2,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_021",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_022",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_023",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_024",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_025",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_026",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_027",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_028",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_029",
+      "loanword_example": "",
+      "native_example": "",
+      "n_words_changed": 1,
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    }
+  ],
+  "summary": {
+    "n_pairs": 30,
+    "mean_loanword_wer": 1.0,
+    "mean_native_wer": 1.0,
+    "wer_difference": 0.0,
+    "preference": "native",
+    "effect_size": 0,
+    "pairs_favoring_loanword": 0,
+    "pairs_favoring_native": 0,
+    "std_loanword_wer": 0.0,
+    "std_native_wer": 0.0
+  }
+}

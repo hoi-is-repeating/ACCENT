@@ -1,0 +1,30 @@
+loanword,native,loanword_wer,native_wer,difference,domain
+software,programa,1.0,1.0,0.0,tech
+hardware,equipo,1.0,1.0,0.0,tech
+email,correo electrónico,1.0,1.0,0.0,tech
+password,contraseña,1.0,1.0,0.0,tech
+laptop,portátil,1.0,1.0,0.0,tech
+smartphone,teléfono inteligente,1.0,1.0,0.0,tech
+router,enrutador,1.0,1.0,0.0,tech
+website,sitio web,1.0,1.0,0.0,tech
+backup,copia de seguridad,1.0,1.0,0.0,tech
+link,enlace,1.0,1.0,0.0,tech
+marketing,mercadotecnia,1.0,1.0,0.0,business
+manager,gerente,1.0,1.0,0.0,business
+meeting,reunión,1.0,1.0,0.0,business
+feedback,retroalimentación,1.0,1.0,0.0,business
+deadline,fecha límite,1.0,1.0,0.0,business
+startup,empresa emergente,1.0,1.0,0.0,business
+budget,presupuesto,1.0,1.0,0.0,business
+partner,socio,1.0,1.0,0.0,business
+shopping,compras,1.0,1.0,0.0,daily
+parking,estacionamiento,1.0,1.0,0.0,daily
+ticket,boleto,1.0,1.0,0.0,daily
+hobby,pasatiempo,1.0,1.0,0.0,daily
+stress,estrés,1.0,1.0,0.0,daily
+sandwich,emparedado,1.0,1.0,0.0,food
+hamburger,hamburguesa,1.0,1.0,0.0,food
+cocktail,cóctel,1.0,1.0,0.0,food
+basketball,baloncesto,1.0,1.0,0.0,sports
+show,espectáculo,1.0,1.0,0.0,entertainment
+fan,aficionado,1.0,1.0,0.0,entertainment

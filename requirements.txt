@@ -1,0 +1,33 @@
+# requirements.txt
+# Core dependencies
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Audio processing
+librosa>=0.9.0
+soundfile>=0.10.0
+scipy>=1.7.0
+
+# TTS engines
+gtts>=2.2.0
+# TTS>=0.22.0  # Uncomment for Coqui TTS support
+
+# ASR models
+openai-whisper>=20230918
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# Phoneme processing (for SPECTRAL)
+phonemizer>=3.0.0
+# espeak-ng  # System dependency - install separately
+
+# Utilities
+pyyaml>=6.0
+tqdm>=4.65.0
+matplotlib>=3.5.0
+seaborn>=0.12.0
+
+# Development dependencies
+pytest>=7.0.0
+jupyter>=1.0.0
+black>=22.0.0
