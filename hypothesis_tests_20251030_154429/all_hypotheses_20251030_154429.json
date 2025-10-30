@@ -1,0 +1,105 @@
+{
+  "timestamp": "20251030_154429",
+  "n_pairs_available": 225,
+  "hypotheses": {
+    "H1_robustness": {
+      "robustness_results": [
+        {
+          "snr": 30,
+          "mean_loanword_wer": 0.956063006353092,
+          "mean_native_wer": 0.9397151519933813,
+          "difference": 0.016347854359710756,
+          "n_pairs": 20
+        },
+        {
+          "snr": 20,
+          "mean_loanword_wer": 0.9561146859396553,
+          "mean_native_wer": 0.9346281954716422,
+          "difference": 0.021486490468013097,
+          "n_pairs": 20
+        },
+        {
+          "snr": 10,
+          "mean_loanword_wer": 0.9601146859396554,
+          "mean_native_wer": 0.9357151519933813,
+          "difference": 0.024399533946274143,
+          "n_pairs": 20
+        },
+        {
+          "snr": 5,
+          "mean_loanword_wer": 0.9662732995278894,
+          "mean_native_wer": 0.9477912063007224,
+          "difference": 0.018482093227166985,
+          "n_pairs": 20
+        },
+        {
+          "snr": 0,
+          "mean_loanword_wer": 0.968158011307338,
+          "mean_native_wer": 0.9629495428294055,
+          "difference": 0.0052084684779325485,
+          "n_pairs": 20
+        }
+      ]
+    },
+    "H2_disambiguation": {
+      "disambiguation_results": [
+        {
+          "mix_ratio": 0.3,
+          "loanword_chosen": 0,
+          "native_chosen": 2,
+          "neither": 18,
+          "loanword_percentage": 0.0
+        },
+        {
+          "mix_ratio": 0.5,
+          "loanword_chosen": 1,
+          "native_chosen": 0,
+          "neither": 19,
+          "loanword_percentage": 5.0
+        },
+        {
+          "mix_ratio": 0.7,
+          "loanword_chosen": 1,
+          "native_chosen": 0,
+          "neither": 19,
+          "loanword_percentage": 5.0
+        }
+      ]
+    },
+    "H3_correction": {
+      "correction_results": [
+        {
+          "distortion_type": "speed",
+          "lw_to_native_corrections": 0,
+          "native_to_lw_corrections": 0,
+          "lw_preserved": 1,
+          "native_preserved": 2,
+          "correction_bias": 0
+        },
+        {
+          "distortion_type": "pitch",
+          "lw_to_native_corrections": 0,
+          "native_to_lw_corrections": 0,
+          "lw_preserved": 1,
+          "native_preserved": 2,
+          "correction_bias": 0
+        }
+      ]
+    },
+    "H4_confidence": {
+      "confidence_results": {
+        "mean_loanword_confidence": 0.7651611908129407,
+        "mean_native_confidence": 0.7825733546253483,
+        "confidence_difference": -0.01741216381240762,
+        "n_pairs": 30
+      }
+    },
+    "H5_priming": {
+      "priming_results": {
+        "note": "Simplified priming test - full implementation needs concatenated audio",
+        "ambiguous_transcriptions_tested": 10,
+        "tendency": "Requires more sophisticated setup"
+      }
+    }
+  }
+}

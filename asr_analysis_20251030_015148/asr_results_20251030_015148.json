@@ -1,0 +1,2270 @@
+{
+  "timestamp": "20251030_015148",
+  "language": "Spanish",
+  "audio_directory": "spanish_results_20251030_012640/audio",
+  "pairs_tested": 225,
+  "asr_results": [
+    {
+      "pair_id": "es_000",
+      "loanword_example": "estatus",
+      "native_example": "categoría",
+      "loanword_wer": 0.68,
+      "native_wer": 0.44,
+      "wer_difference": 0.24000000000000005,
+      "loanword_transcript": "Como usted sabe, a una parte importante de Gales se le ha dado el menor que el 1 mayor que está tus menor que por litro 1 mayor que de objetivo y dentro del programa. De los fondos estructurales.",
+      "native_transcript": "Como usted sabe, a una parte importante de Gales se le ha dado la menor que N1 mayor que categoría menor que N1 mayor que de objetivo y dentro del programa de los fondos estructurales."
+    },
+    {
+      "pair_id": "es_001",
+      "loanword_example": "líder",
+      "native_example": "dirigente",
+      "loanword_wer": 0.5476190476190477,
+      "native_wer": 0.47619047619047616,
+      "wer_difference": 0.07142857142857151,
+      "loanword_transcript": "Dejenme recordarle también que cuando el menor que él e uno mayor que líder menor que por litro uno mayor que de su partido. El señor Hague, fue secretario de Estado Paragales violó todos los artículo",
+      "native_transcript": "Dejenme recordarle también que cuando el menor que N1 mayor que dirigente menor que, N1 mayor que de su partido. El señor Hague, fue secretario de Estado Paragales violó todos los artículos del libro "
+    },
+    {
+      "pair_id": "es_002",
+      "loanword_example": "market failures",
+      "native_example": "fallos de mercado",
+      "loanword_wer": 0.9333333333333333,
+      "native_wer": 0.9347826086956522,
+      "wer_difference": -0.0014492753623188692,
+      "loanword_transcript": "En este sentido, los que hablan francés seguro que le dirán a la UMNOR que él e uno mayor que cude chapea o menor que por litro, uno mayor que. Es decir, me quito el sombrero.",
+      "native_transcript": "En este sentido, los que hablan francés seguro que le dirán a la UMNOR que N1 mayor que QdXP-N1 mayor que, es decir, me quito el sombrero."
+    },
+    {
+      "pair_id": "es_003",
+      "loanword_example": "dossier",
+      "native_example": "expediente",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "La mayoría de ellas traducen de hecho las diferencias políticas que existen entre nosotros respecto. A la oportunidad y a la eficacia de las ayudas estatales. Habida cuenta de las insuficiencias, reco",
+      "native_transcript": "La mayoría de ellas traducen de hecho las diferencias políticas que existen entre nosotros respecto. A la oportunidad y a la eficacia de las ayudas estatales. Habida cuenta de las insuficiencias. Reco"
+    },
+    {
+      "pair_id": "es_004",
+      "loanword_example": "monitoring of the implementation",
+      "native_example": "seguimiento de la implementación",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Quiero agradecer personal y profundamente al señor Phon Woghau, el empeño con que ha examinado él. Menorque él e uno mayor que docier menor que por litro, uno mayor que relativo al libro blanco y la c",
+      "native_transcript": "Quiero agradecer personal y profundamente al señor Phon Woghau, el empeño con que ha examinado él. Menor que N1 mayor que expediente menor que N1 mayor que relativo al libro blanco y la calidad de su "
+    },
+    {
+      "pair_id": "es_005",
+      "loanword_example": "comité",
+      "native_example": "comisión",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Al respecto, quisiera dedicar algunas palabras a la idea. Que me parece excelente. Expuesta por lo ser. Reese Jorgonson y Hone. Es decir, la idea del menor que él e uno mayor que monitoring of the imp",
+      "native_transcript": "al respecto quisiera dedicar algunas palabras a la idea que me parece excelente expuesta por lo ser Reese Jorgonson y Hon es decir la idea del menor que N1 mayor que seguimiento de la implementación m"
+    },
+    {
+      "pair_id": "es_006",
+      "loanword_example": "dumping",
+      "native_example": "competencia desleal",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "El menor que el 1 mayor que comité menor que por litro 1 mayor que de control que ya existe solo puede controlar la independencia del director de la oficina.",
+      "native_transcript": "La menor que N1 mayor que comisión menor que, N1 mayor que de control que ya existe solo puede controlar la independencia del director de la oficina."
+    },
+    {
+      "pair_id": "es_007",
+      "loanword_example": "copyright",
+      "native_example": "derechos de autor",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "A mi juicio, la ayuda estatal y legal equivale a poco más que un menor que él e uno mayor que dumping menor que por litro uno mayor que social patrocinado por él. Estado.",
+      "native_transcript": "A mi juicio, la ayuda estatal y legal equivale a poco más que una menor que N1 mayor que competencia desleal menor que N1 mayor que social patrocinada. Por el Estado."
+    },
+    {
+      "pair_id": "es_008",
+      "loanword_example": "ex post",
+      "native_example": "retorno de la inversión",
+      "loanword_wer": 1.0,
+      "native_wer": 0.9655172413793104,
+      "wer_difference": 0.03448275862068961,
+      "loanword_transcript": "Tampoco es admisible que una institución pública posea el menor que él e uno mayor que copyright menor que por litro uno mayor que de documentos públicos.",
+      "native_transcript": "Tampoco es admisible que una institución pública posea los menor que N1 mayor que derechos de autor menor que N1 mayor que de documentos. Públicos."
+    },
+    {
+      "pair_id": "es_009",
+      "loanword_example": "récord",
+      "native_example": "mejor marca",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "falta de responsabilidad, demasiado menor que el 1 mayor que ex ante menor que el 1 mayor que muy poca menor que el 2 mayor que ex post menor que por litro 2 mayor que idea y surge una cultura basada ",
+      "native_transcript": "falta de responsabilidad, demasiado menor que N1 mayor que previsión de resultados menor que, N1 mayor que, muy poco menor que N2 mayor que retorno de la inversión menor que, N2 mayor que y de AIS sur"
+    },
+    {
+      "pair_id": "es_010",
+      "loanword_example": "big bang",
+      "native_example": "gran explosión",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "No se sivate el menor que l1 mayor que récord menor que por litro, 1 mayor que de todas las resoluciones presentadas aquí pero. Desde luego, de este tipo de resoluciones sin lugar a dudas.",
+      "native_transcript": "No se sivate la menor que N1 mayor que mejor marca menor que, N1 mayor que de todas las resoluciones presentadas aquí pero. Desde luego, de este tipo de resoluciones sin lugar a dudas."
+    },
+    {
+      "pair_id": "es_011",
+      "loanword_example": "stock",
+      "native_example": "existencias",
+      "loanword_wer": 0.9824561403508771,
+      "native_wer": 0.9649122807017544,
+      "wer_difference": 0.01754385964912275,
+      "loanword_transcript": "También puedo asegurar específicamente a la asamblea que no buscamos lo que algunas veces se. Denomina una aproximación de menor que L1 mayor que Big Bang menor que por litro 1 mayor que.",
+      "native_transcript": "También puedo asegurar específicamente a la asamblea que no buscamos lo que algunas veces se. Denomina una aproximación de menor que N1 mayor que gran explosión menor que N1 mayor que."
+    },
+    {
+      "pair_id": "es_012",
+      "loanword_example": "feed back",
+      "native_example": "retroalimentación",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Asunto, propuesta de reglamento en el que se fijan los totales admisibles de capturas de determinadas. Poblaciones de peces para el año 2000, caso concreto de la ANCHOA, según los últimos informes del",
+      "native_transcript": "Asunto, propuesta de reglamento en el que se fijan los totales admisibles de capturas de determinadas. Poblaciones de peces para el año 2000, caso concreto del anchoa, según los últimos informes del C"
+    },
+    {
+      "pair_id": "es_013",
+      "loanword_example": "financial stability",
+      "native_example": "estabilidad financiera",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Si mediante instrumentos similares al impuesto towin dificultá hacemos el funcionamiento de este. Mecanismo, menor que l1 mayor que feedback menor que por litro 1 mayor que, de interconexión. El cual ",
+      "native_transcript": "Si mediante instrumentos similares al impuesto towin dificultá hacemos el funcionamiento de este. Mecanismo, menor que N1 mayor que retroalimentación menor que, N1 mayor que, de interconexión, el cual"
+    },
+    {
+      "pair_id": "es_014",
+      "loanword_example": "screening",
+      "native_example": "cribado",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Si incluimos también el sector privado, constataremos que esta famosa menor que el 1 mayor que financial stability menor que por litro 1 mayor que no solo no sea logrado. Sino que además, muy probable",
+      "native_transcript": "Si incluimos también el sector privado, constataremos que esta famosa menor que N1 mayor que esta habilidad financiera menor que N1 mayor que no solo no sea logrado. Sino que además, muy probablemente"
+    },
+    {
+      "pair_id": "es_015",
+      "loanword_example": "hot spots",
+      "native_example": "puntos calientes",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "No tiene ningún sentido para cualquier trabajador del ámbito Schengen. Pues ya ha sufrido un menor que el 1 mayor que screening menor que por litro 1 mayor que para entrar en el primer estado miembro.",
+      "native_transcript": "No tiene ningún sentido para cualquier trabajador del ámbito Schengen. Pues ya ha sufrido un menor que N1 mayor que cribado menor que N1 mayor que para entrar en el primer estado miembro. Y el segundo"
+    },
+    {
+      "pair_id": "es_016",
+      "loanword_example": "estándar",
+      "native_example": "norma",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "para lograr que el 50% o más de la combinación energética proceda de las fuentes de energías. Renovables. No podemos contentarnos con ciertos menor que L1 mayor que hotspots menor que por litro uno ma",
+      "native_transcript": "para lograr que el 50% o más de la combinación energética proceda de las fuentes de energías. Renovables, no podemos contentarnos con ciertos menor que N1 mayor que puntos calientes menor que, N1 mayo"
+    },
+    {
+      "pair_id": "es_017",
+      "loanword_example": "hobby",
+      "native_example": "afición",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Por ello, me gustaría recomendar a los miembros de este Parlamento que a pesar de su afiliación política. Boten en contra de las enmiendas presentadas a la posición común que debilitarán él. Menor que",
+      "native_transcript": "Por ello, me gustaría recomendar a los miembros de este Parlamento que, a pesar de su afiliación política, voten en contra de las enmiendas presentadas a la posición común que debilitarán la menor que"
+    },
+    {
+      "pair_id": "es_018",
+      "loanword_example": "best practice",
+      "native_example": "buenas prácticas",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Permítanme comentar, escuchen bien lo que les voy a decir. Puesto que esto se ha repetido en el debate, el asunto de los coches antiguos y de menor que el 1 mayor que jovi menor que por litro 1 mayor ",
+      "native_transcript": "Permítanme comentar, escuchen bien lo que les voy a decir. Puesto que esto se ha repetido en el debate, el asunto de los coches antiguos y de. Menorque N1 mayor que a fision menor que, N1 mayor que al"
+    },
+    {
+      "pair_id": "es_019",
+      "loanword_example": "bottom-up",
+      "native_example": "abajo arriba",
+      "loanword_wer": 0.9534883720930233,
+      "native_wer": 0.9090909090909091,
+      "wer_difference": 0.044397463002114224,
+      "loanword_transcript": "Esta resolución común, PPED, EPS, EGRA, plau de la iniciativa de los 14 estados miembros para. Precionara Austria organizando una especie de menor que L1 mayor que boicot menor que por litro 1 mayor q",
+      "native_transcript": "Esta resolución como un PPE de EPS se graplau de la iniciativa de los 14 estados miembros para. Presionar a Austria organizando una especie de menor que N1 mayor que boicot menor que N1 mayor que dipl"
+    },
+    {
+      "pair_id": "es_020",
+      "loanword_example": "timing",
+      "native_example": "calendario",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Se pone también un énfasis especial en la difusión de los resultados y en el aprendizaje mutuo. Mediante la menor que l1 mayor que best practice menor que por litro 1 mayor que y el menor que l2 mayor",
+      "native_transcript": "Se pone también un énfasis especial en la difusión de los resultados y en el aprendizaje mutuo. Mediante menor que N1 mayor que buenas prácticas menor que N1 mayor que y la menor que N2 mayor que tran"
+    },
+    {
+      "pair_id": "es_021",
+      "loanword_example": "baby",
+      "native_example": "pequeña",
+      "loanword_wer": 0.9701492537313433,
+      "native_wer": 0.9701492537313433,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Puesto que el programa leader es algo así como un taller con un concepto de menor que el 1 mayor que bottom up menor que por litro 1 mayor que. En los pasados años han ha sido mediante leader E, y lea",
+      "native_transcript": "Puesto que el programa leader es algo así como un taller con un concepto de menor que N1 mayor que abajo arriba menor que N1 mayor que. En los pasados años han ha sido mediante leader E, y leader dos "
+    },
+    {
+      "pair_id": "es_022",
+      "loanword_example": "lifting",
+      "native_example": "levantamiento de medidas",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Sin embargo, he llegado a la conclusión de que el menor que l1 mayor que timin menor que por litro 1 mayor que ha sido, de hecho, muy acertado.",
+      "native_transcript": "Sin embargo, he llegado a la conclusión de que el menor que N1 mayor que calendario menor que, N1 mayor que ha sido. De hecho, muy acertado."
+    },
+    {
+      "pair_id": "es_023",
+      "loanword_example": "new look",
+      "native_example": "nueva imagen",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "La cuestión tiene mucha importancia y yo quisiera saber, porque puede hablarse de menor que él e uno mayor que Baby menor que por litro, uno mayor que estafa. Si el señor comisario velará porque estos",
+      "native_transcript": "La cuestión tiene mucha importancia y yo quisiera saber, porque puede hablarse de menor que N1 mayor que pequeña menor que N1 mayor que estafa. Si el señor comisario velará porque estos fondos no se s"
+    },
+    {
+      "pair_id": "es_024",
+      "loanword_example": "hooligans",
+      "native_example": "fanáticos violentos",
+      "loanword_wer": 0.8809523809523809,
+      "native_wer": 0.9069767441860465,
+      "wer_difference": -0.026024363233665526,
+      "loanword_transcript": "Las propuestas de la Comisión que discutimos permiten el menor que el 1 mayor, que lifting menor, que por litro 1 mayor que que necesita esta. Directiva.",
+      "native_transcript": "Las propuestas de la Comisión que discutimos permiten el menor que N1 mayor que levantamiento de medidas menor que N1 mayor que Q. Necesita esta directiva."
+    },
+    {
+      "pair_id": "es_025",
+      "loanword_example": "tour operators",
+      "native_example": "agencias de viajes",
+      "loanword_wer": 0.9636363636363636,
+      "native_wer": 0.9464285714285714,
+      "wer_difference": 0.017207792207792227,
+      "loanword_transcript": "Para concluir, señor presidente, permítame recordar a los colegas que la directiva necesita un menor que él e uno mayor que no lug menor que por litro uno mayor que haga aún más. Atractivos los O y CW",
+      "native_transcript": "Para concluir, señor presidente, permítame recordar a los colegas que la directiva necesita una menor que N1 mayor que nueva imagen menor que N1 mayor que que haga aún. Más atractivos los OICVM, pero "
+    },
+    {
+      "pair_id": "es_026",
+      "loanword_example": "show",
+      "native_example": "espectáculo",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Todos estos hechos, que desgraciadamente se han sumado en el tiempo y en el lugar. Hacen que los desalmados, intolerantes, racistas y menor que él e uno mayor que Juligan's menor que por litro, uno ma",
+      "native_transcript": "Todos estos hechos, que desgraciadamente se han sumado en el tiempo y en el lugar. Hacen que los desalmados, intolerantes, racistas y menor que N1 mayor que fanáticos violentos menor que N1 mayor que "
+    },
+    {
+      "pair_id": "es_027",
+      "loanword_example": "core business",
+      "native_example": "negocio principal",
+      "loanword_wer": 0.8904109589041096,
+      "native_wer": 0.9041095890410958,
+      "wer_difference": -0.013698630136986245,
+      "loanword_transcript": "Señor Presidente, Señor Comisario, ya que hablamos de empleo. Quiero recordar el también muy serio asunto de las quebras de los mayoristas. Los menor que el 1 mayor que 2 operators menor que por litro",
+      "native_transcript": "Señor Presidente, Señor Comisario, ya que hablamos de empleo. Quiero recordar el también muy serio asunto de las quebras de los mayoristas. Las menor que N1 mayor que agencias de viajes menor que N1 m"
+    },
+    {
+      "pair_id": "es_028",
+      "loanword_example": "activity based management",
+      "native_example": "gestión basada en la actividad",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Y cuando surge algo más, no me parece bien que el orden del día de las distintas comisiones. Ya de por sí excesivamente cargado, sea siempre acortado a causa del menor que él e uno mayor que show meno",
+      "native_transcript": "Y cuando surge algo más, no me parece bien que el orden del día de las distintas comisiones. Ya de por sí excesivamente cargado, sea siempre acortado a causa del menor que N1 mayor que espectáculo men"
+    },
+    {
+      "pair_id": "es_029",
+      "loanword_example": "test",
+      "native_example": "examen",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "señor presidente, señor comisario, señoras y señores diputados. La liberalización prevista de los servicios postales nacionales tradicionales su cita. Ineludiblemente la pregunta de ¿qué es lo que est",
+      "native_transcript": "señor presidente, señor comisario, señoras y señores diputados, la liberalización prevista de los servicios postales nacionales tradicionales su cita, ineludiblemente la pregunta de qué es lo que esto"
+    },
+    {
+      "pair_id": "es_030",
+      "loanword_example": "lobbies",
+      "native_example": "grupos de presión",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Esta pregunta hay que responderla partiendo del hecho de que el monopólio tradicional de hecho está. Siendo socavado por toda suerte de empresas de mensajería y por los avances tecnológicos como él. M",
+      "native_transcript": "Esta pregunta hay que responderla partiendo del hecho de que el monopolio tradicional de hecho está. Siendo socavado por toda suerte de empresas de mensajería y por los avances tecnológicos como él. M"
+    },
+    {
+      "pair_id": "es_031",
+      "loanword_example": "policy mix",
+      "native_example": "combinación de políticas",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "En esta perspectiva, el llamado menor que L1 mayor que Activity Based Management menor que por litro 1 mayor que es el instrumento clave para garantizar una, correspondencia entre los objetivos, las a",
+      "native_transcript": "En esta perspectiva, la llamado menor que N1 mayor que gestión basada en la actividad menor que N1 mayor que es el instrumento clave para garantizar una, correspondencia entre los objetivos, las accio"
+    },
+    {
+      "pair_id": "es_032",
+      "loanword_example": "stocks",
+      "native_example": "existencias",
+      "loanword_wer": 0.9705882352941176,
+      "native_wer": 0.9705882352941176,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Por este motivo, estas constituyen un menor que el 1 mayor que test menor que por litro, 1 mayor que de credibilidad para la política exterior y de seguridad común, de la Unión.",
+      "native_transcript": "Por este motivo, estas constituyen un menor que N1 mayor que examen menor que, N1 mayor que de credibilidad para la política exterior y de seguridad común. De la Unión."
+    },
+    {
+      "pair_id": "es_033",
+      "loanword_example": "green shipping conference",
+      "native_example": "Conferencia sobre transporte marítimo ecológico",
+      "loanword_wer": 0.9344262295081968,
+      "native_wer": 0.9047619047619048,
+      "wer_difference": 0.029664324746291992,
+      "loanword_transcript": "Pienso a sí mismo que no ha de subestimarse y le formulo una pregunta el poder y la fuerza de los. Menorque él e uno mayor que lovis menor que por litro, uno mayor que de los ministerios de asuntos ex",
+      "native_transcript": "Pienso a sí mismo que no ha de subestimarse y le formulo una pregunta el poder y la fuerza de los. Menor que N1 mayor que grupos de presión menor que N1 mayor que de los ministerios de asuntos exterio"
+    },
+    {
+      "pair_id": "es_034",
+      "loanword_example": "business",
+      "native_example": "negocio",
+      "loanword_wer": 0.9473684210526315,
+      "native_wer": 0.9122807017543859,
+      "wer_difference": 0.03508771929824561,
+      "loanword_transcript": "El menor que el 1 mayor que polis y mix menor que por litro, 1 mayor que que pongamos en marcha tendría que permitir precisamente la plena absorción. De estas capacidades.",
+      "native_transcript": "La menor que N1 mayor que combinación de políticas menor que, N1 mayor que que pongamos en marcha tendría que permitir precisamente la. Plena absorción de estas capacidades."
+    },
+    {
+      "pair_id": "es_035",
+      "loanword_example": "software",
+      "native_example": "programación",
+      "loanword_wer": 0.9056603773584906,
+      "native_wer": 0.9056603773584906,
+      "wer_difference": 0.0,
+      "loanword_transcript": "No creo que el estado de los menor que él e uno mayor que stocks menor que por litro uno mayor que ni el escandaloso sistema actual de los descartes sean. Un buen ejemplo de la bondad del sistema, que",
+      "native_transcript": "No creo que el estado de las menor que N1 mayor que existencias menor que, N1 mayor que ni el escandaloso sistema actual de los descartes. sean un buen ejemplo de la bondad del sistema, que requiere p"
+    },
+    {
+      "pair_id": "es_036",
+      "loanword_example": "corporate governance",
+      "native_example": "gobierno corporativo",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Señor presidente, señor comisario, en tanto ponente de la directiva relativa a las instalaciones portuarias receptoras de desechos. Quiero hacer un par de observaciones. También de cara a la prevenció",
+      "native_transcript": "Señor presidente, señor comisario, en tanto ponente de la directiva relativa a las instalaciones portuarias receptoras de desechos. Quiero hacer un par de observaciones. También de cara a la prevenció"
+    },
+    {
+      "pair_id": "es_037",
+      "loanword_example": "split comitology",
+      "native_example": "comitología partida",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Sabemos que, en nombre de los empresarios, la unís descubre su juego en los documentos preparatorios de la CUMRE Europea del. Menorque el 1 mayor que business menor que por litro 1 mayor que prevista ",
+      "native_transcript": "Sabemos que, en nombre de los empresarios, la unís descubre su juego en los documentos preparatorios de la CUMRE Europea del. Menorque N1 mayor que negocio menor que, N1 mayor que prevista en junio en"
+    },
+    {
+      "pair_id": "es_038",
+      "loanword_example": "on line",
+      "native_example": "en línea",
+      "loanword_wer": 0.9130434782608695,
+      "native_wer": 0.8840579710144928,
+      "wer_difference": 0.02898550724637672,
+      "loanword_transcript": "los incrementos en los medios de comunicación. En la telefonía móvil y en el menor que el 1 mayor que software menor que por litro 1 mayor que no han podido compensar las pérdidas de empleo en. El sec",
+      "native_transcript": "los incrementos en los medios de comunicación. En la telefonía móvil y en la menor que N1 mayor que programación menor que N1 mayor que no han podido compensar las pérdidas de empleo. En el sector de "
+    },
+    {
+      "pair_id": "es_039",
+      "loanword_example": "capacity building",
+      "native_example": "generación de capacidad",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Por lo tanto, quisiera reabrir el debate acerca del menor que él e uno mayor que corporate governance menor que por litro uno mayor que sobre el concepto más amplio de. La empresa como menor que él e ",
+      "native_transcript": "Por lo tanto, quisiera reabrir el debate acerca del menor que N1 mayor que gobierno corporativo menor que N1 mayor que sobre el concepto más amplio de. La empresa como menor que N2 mayor que sociedade"
+    },
+    {
+      "pair_id": "es_040",
+      "loanword_example": "smart sanctions",
+      "native_example": "sanciones inteligentes",
+      "loanword_wer": 0.9038461538461539,
+      "native_wer": 0.9230769230769231,
+      "wer_difference": -0.019230769230769273,
+      "loanword_transcript": "En esta materia, hemos recomendado durante la tramitación un llamado menor que el 1 mayor que split comitó la G menor que por litro 1 mayor que que podría ser de inestimable ayuda.",
+      "native_transcript": "En esta materia, hemos recomendado durante la tramitación una llamada menor que N1 mayor que comitología partida menor que N1 mayor que que podría ser de inestimable ayuda."
+    },
+    {
+      "pair_id": "es_041",
+      "loanword_example": "club",
+      "native_example": "agrupación",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "No tengo tiempo para detenerme en otros aspectos elusivos y moderados. Demasiado moderados de su programa. Medio ambiente, salud, justicia, transportes, seguridad, además de la precipitada ampliación ",
+      "native_transcript": "No tengo tiempo para detenerme en otros aspectos elusivos y moderados. Demasiado moderados de su programa. Medio ambiente, salud, justicia, transportes, seguridad, además de la precipitada ampliación "
+    },
+    {
+      "pair_id": "es_042",
+      "loanword_example": "lobby",
+      "native_example": "grupo de presión",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Esta es la razón por la cual se debe también tener en cuenta lo que llamamos menor que el 1 mayor que capacity. Building menor que por litro, 1 mayor que. Es decir, las medidas de asistencia técnica q",
+      "native_transcript": "Esta es la razón por la cual se debe también tener en cuenta lo que llamamos menor que N1 mayor que generación de. Capacidad menor que, N1 mayor que, es decir, las medidas de asistencia técnica que ha"
+    },
+    {
+      "pair_id": "es_043",
+      "loanword_example": "boom",
+      "native_example": "auge",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "La necesidad de intervenir en los ataques a periodistas independientes. La necesidad de defender a insumisos y a desertores. Así como la necesidad de desarrollar sanciones inteligentes. Menorque él e ",
+      "native_transcript": "La necesidad de intervenir en los ataques a periodistas independientes. La necesidad de defender a insumisos y a desertores. Así como la necesidad de desarrollar sanciones inteligentes. Menorque N1 ma"
+    },
+    {
+      "pair_id": "es_044",
+      "loanword_example": "hardware",
+      "native_example": "componentes informáticos",
+      "loanword_wer": 1.0,
+      "native_wer": 0.9347826086956522,
+      "wer_difference": 0.06521739130434778,
+      "loanword_transcript": "Es una mezcla entre la señora Bonino y el señor Le Pen, lo cual es una mezcla sensacional de por sí. Además de que este menor que él e uno mayor que club menor que por litro uno mayor que no participa",
+      "native_transcript": "Es una mezcla entre la señora Bonino y el señor Le Pen, lo cual es una mezcla sensacional de por sí. Además de que esta menor que N1 mayor, que agrupación menor, que N1 mayor, que no participan nunca "
+    },
+    {
+      "pair_id": "es_045",
+      "loanword_example": "session news",
+      "native_example": "boletín de sesión",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "E aquí, en efecto, la nueva directiva que se nos presenta hoy aplicada hasta las últimas consecuencias. Y que podría perfectamente terminar por sustituir a la definición del chocolate que conocemos. E",
+      "native_transcript": "E aquí, en efecto, la nueva directiva que se nos presenta hoy aplicada hasta las últimas consecuencias, y que podría perfectamente terminar por sustituir a la definición del chocolate que conocemos. E"
+    },
+    {
+      "pair_id": "es_046",
+      "loanword_example": "phasing out",
+      "native_example": "reducción progresiva",
+      "loanword_wer": 0.8961038961038961,
+      "native_wer": 0.922077922077922,
+      "wer_difference": -0.025974025974025983,
+      "loanword_transcript": "Al menor que el 1 mayor que 1 menor que por litro 1 mayor que de la tecnología de la información se enfrentan fusiones y despidos.",
+      "native_transcript": "Al menor que N1 mayor que auge menor que, N1 mayor que de la tecnología de la información se enfrentan fusiones y despidos."
+    },
+    {
+      "pair_id": "es_047",
+      "loanword_example": "hushkits",
+      "native_example": "dispositivos de silencio",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Las ciudadanas y ciudadanos tienen que familiarizarse con unas nuevas formas y relaciones de. Trabajo en la industria de la información y de la comunicación, tanto en el sector del menor que L1 mayor ",
+      "native_transcript": "Las ciudadanas y ciudadanos tienen que familiarizarse con unas nuevas formas y relaciones de. Trabajo en la industria de la información y de la comunicación, tanto en el sector de los menor que N1 may"
+    },
+    {
+      "pair_id": "es_048",
+      "loanword_example": "leasing",
+      "native_example": "alquiler con opción de compra",
+      "loanword_wer": 1.0,
+      "native_wer": 0.9387755102040817,
+      "wer_difference": 0.061224489795918324,
+      "loanword_transcript": "Una depreciación de un 10% del dólar y del menor que el 1 mayor que y en menor que por litro 1 mayor que con respecto al euro. Acompañada de una caída del 10% del precio del oro. Borraría todo el capi",
+      "native_transcript": "Una depreciación de un 10% del dólar y del menor que N1 mayor que N1 mayor que con respecto al euro. Acompañada de una caída del 10% del precio del oro. Borraría todo el capital actual del B.C."
+    },
+    {
+      "pair_id": "es_049",
+      "loanword_example": "bypass ratio",
+      "native_example": "relación de derivación",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Acabo de recibir de manos de un colega la menor que él e uno mayor que Session News, menor que por litro uno mayor que acerca del debate de ayer sobre él. Informe Lucford, y he de constatar con conste",
+      "native_transcript": "Acabo de recibir de manos de un colega el menor que N1 mayor que boletín de sesión menor que, N1 mayor que acerca del debate de ayer. Sobre el informe Lutford, y he de constatar con consternación que "
+    },
+    {
+      "pair_id": "es_050",
+      "loanword_example": "brand-new start",
+      "native_example": "nuevo comienzo",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Primera, que vamos a buscar unos mejores estándares internacionales en el marco de la OACI. Que vamos a colaborar en el seno de OACI, y que vamos a buscar un objetivo común. Que es reducir, todavía má",
+      "native_transcript": "Primera, que vamos a buscar unos mejores estándares internacionales en el marco de la OACI. Que vamos a colaborar en el seno de OACI, y que vamos a buscar un objetivo común. Que es reducir, todavía má"
+    },
+    {
+      "pair_id": "es_051",
+      "loanword_example": "trading",
+      "native_example": "transacciones bursátiles",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Son muchos los que venen el tema de los menor que el 1 mayor que Josh Kitz menor que por litro 1 mayor que el primer caso de como el nuevo. Parlamento y la nueva comisión tratarán los temas de la avia",
+      "native_transcript": "son muchos los que venen el tema de los menor que N1 mayor que dispositivos de silencio menor que, N1 mayor que el primer caso de como. El nuevo parlamento y la nueva comisión tratarán los temas de la"
+    },
+    {
+      "pair_id": "es_052",
+      "loanword_example": "black vengeance angels",
+      "native_example": "ángeles de la venganza",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Esto ha gustado a las poderosas empresas norteamericanas, como fabricantes de aviones, pero les perjudica porque al mismo tiempo son inversoras propietarias de miles de aeronaves. Arrendadas en menor ",
+      "native_transcript": "Esto ha gustado a las poderosas empresas norteamericanas, como fabricantes de aviones, pero les perjudica porque al mismo tiempo son inversoras propietarias de miles de aeronaves. Arrendadas en menor "
+    },
+    {
+      "pair_id": "es_053",
+      "loanword_example": "self regulation",
+      "native_example": "autorregulación",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Hemos propuesto a los norteamericanos si es que consideran que esta definición de los menor que el 1 mayor que vaipas. Ratio menor que por litro, 1 mayor que suponen discriminación. Nosotros entendemo",
+      "native_transcript": "Hemos propuesto a los norteamericanos si es que consideran que esta definición de los menor que N1 mayor que relación. De derivación menor que, N1 mayor que ratio suponen discriminación. Nosotros ente"
+    },
+    {
+      "pair_id": "es_054",
+      "loanword_example": "marketing",
+      "native_example": "mercadotecnica",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Conclusión, es necesaria una nueva fase, con las presidencias portuguesa y francesa. Un menor que él e uno mayor que brand new start, menor que por litro, uno mayor que de la política euro-mediterráne",
+      "native_transcript": "Conclusión, es necesaria una nueva fase, con las presidencias portuguesa y francesa, un menor que N1 mayor que nuevo comienzo menor que N1 mayor que de la política euro-mediterránea. Que pueda impulsa"
+    },
+    {
+      "pair_id": "es_055",
+      "loanword_example": "one man",
+      "native_example": "un hombre",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Por otro lado, tenemos los sistemas de menor que el 1 mayor que trading menor que por litro, 1 mayor que que acaban de nacer en los países bajos. En Dinamarca y en los que seguirán existiendo muchos p",
+      "native_transcript": "Por otro lado, tenemos los sistemas de menor que N1 mayor que transacciones bursátiles menor que N1 mayor que que acaban de nacer en los países bajos. En Dinamarca y en los que seguirán existiendo muc"
+    },
+    {
+      "pair_id": "es_056",
+      "loanword_example": "shopping list",
+      "native_example": "lista de la compra",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Todos los colegas deben comprender por fin que sí bien, en nuestra calidad de parlamentarios. Debemos cumplir con el máximo rigor nuestras tareas de control. Sin embargo, no somos detectives nifiscale",
+      "native_transcript": "Todos los colegas deben comprender por fin que sí bien, en nuestra calidad de parlamentarios. Debemos cumplir con el máximo rigor nuestras tareas de control, sin embargo no somos detectives nifiscales"
+    },
+    {
+      "pair_id": "es_057",
+      "loanword_example": "pay as you go",
+      "native_example": "de prepago",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "En toda nueva legislación tenemos que establecer un mejor equilibrio entre la menor que el 1 mayor que self. Regulación menor que por litro 1 mayor que y la menor que el 2 mayor que public regulation ",
+      "native_transcript": "En toda nueva legislación tenemos que establecer un mejor equilibrio entre la. Menor que N1 mayor que autorregulación menor que N1 mayor que y la menor que N2 mayor que regulación pública menor que N2"
+    },
+    {
+      "pair_id": "es_058",
+      "loanword_example": "fair trade",
+      "native_example": "de comercio justo",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "En segundo lugar, a menudo lo que los directores de menor que el 1 mayor que marketing menor que por litro, 1 mayor que denominarían los suministros son diferentes.",
+      "native_transcript": "En segundo lugar, a menudo lo que los directores de menor que N1 mayor que mercado técnica menor que, N1 mayor que denominarían los suministros son diferentes."
+    },
+    {
+      "pair_id": "es_059",
+      "loanword_example": "eslogan",
+      "native_example": "lema",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "El principio subiescente menor que el 1 mayor que 1 man menor que por litro 1 mayor que menor que el 2 mayor que 1 boté menor que por litro 2 mayor que es inaceptable.",
+      "native_transcript": "El principio subiescente menor que N1 mayor, que 1 hombre menor, que N1 mayor, que menor, que N2 mayor, que 1 voto menor, que N2 mayor, que es inaceptable."
+    },
+    {
+      "pair_id": "es_060",
+      "loanword_example": "feedback",
+      "native_example": "respuesta",
+      "loanword_wer": 0.967741935483871,
+      "native_wer": 0.9516129032258065,
+      "wer_difference": 0.016129032258064502,
+      "loanword_transcript": "Pero para mí es tranquilizador que tantos colegas estén de acuerdo en reconocer que las propuestas. Contenidas en 52 apartados y 58 subapartados constituyan una menor que el 1 mayor que shopping list ",
+      "native_transcript": "Pero para mí es tranquilizador que tantos colegas estén de acuerdo en reconocer que las propuestas. Contenidas en 52 apartados y 58 subapartados constituyan una menor que N1 mayor que lista de la comp"
+    },
+    {
+      "pair_id": "es_061",
+      "loanword_example": "an early bird catches the worm",
+      "native_example": "el pájaro que madruga atrapa al gusano",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Uno es el pilar obligatorio. El sistema menor que él e uno mayor que Pei ha sido un menor que por litro, uno mayor que. El otro es el sistema de capitalización, que se sitúa por encima de aquel. El pr",
+      "native_transcript": "Uno es el pilar obligatorio. El sistema menor que N1 mayor que deprepago menor que N1 mayor que. El otro es el sistema de capitalización, que se sitúa por encima de aquel. El problema es que todos los"
+    },
+    {
+      "pair_id": "es_062",
+      "loanword_example": "fuel",
+      "native_example": "combustóleo",
+      "loanword_wer": 0.9024390243902439,
+      "native_wer": 0.9024390243902439,
+      "wer_difference": 0.0,
+      "loanword_transcript": "La enmienda 34 exige que los plátanos menor que el 1 mayor que Fairtrade menor que por litro 1 mayor que sean apoyados independientemente del país. De origen.",
+      "native_transcript": "La enmienda 34 exige que los plátanos menor que N1 mayor que de comercio justo menor que, N1 mayor que sean apoyados independientemente, del país de origen."
+    },
+    {
+      "pair_id": "es_063",
+      "loanword_example": "confort",
+      "native_example": "comodidad",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "para que esto resulte visible. Parece preferible que los dos socios utilicen en las actividades previstas un emblema I y I. Menorque L1 mayor que es logán menor que por litro 1 mayor que identicos.",
+      "native_transcript": "Para que esto resulte visible, parece preferible que los dos socios utilicen en las actividades previstas un emblema I y I. Menorque N1 mayor que Lema menor que N1 mayor que identicos."
+    },
+    {
+      "pair_id": "es_064",
+      "loanword_example": "gap",
+      "native_example": "brecha",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "En la actualidad es así, que al yogur, si se le agregan edulcorantes u otros productos adicionales. Es un producto no incluido en el anexo primero. Si es un menor que él e uno mayor que yogur menor qu",
+      "native_transcript": "En la actualidad es así, que al yogur, si se le agregan edulcorantes u otros productos adicionales. Es un producto no incluido en el anexo primero. Si es un menor que N1 mayor que yogur menor que N1 m"
+    },
+    {
+      "pair_id": "es_065",
+      "loanword_example": "relax",
+      "native_example": "relajamiento",
+      "loanword_wer": 0.9333333333333333,
+      "native_wer": 0.9111111111111111,
+      "wer_difference": 0.022222222222222254,
+      "loanword_transcript": "Los informes médicos han señalado que en las zonas circundantes a los aeropuertos se producen. Problemas de salud inacceptablemente graves. Como insomnio, alta tensión. Menorque el 1 mayor que estrés ",
+      "native_transcript": "Los informes médicos han señalado que en las zonas circundantes a los aeropuertos se producen. Problemas de salud inacceptablemente graves. Como insomnio, alta tensión, menor que N1 mayor que estrés m"
+    },
+    {
+      "pair_id": "es_066",
+      "loanword_example": "handicap",
+      "native_example": "obstáculo",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Tenemos un sistema que va a ser administrado por los usuarios y me gustaría. Adelantando me dado que confiamos en conseguir que esta directiva salga adelante. Decirle esta tarde a la comisión que es n",
+      "native_transcript": "Tenemos un sistema que va a ser administrado por los usuarios y me gustaría. Adelantando me dado que confiamos en conseguir que esta directiva salga adelante. Decirle esta tarde a la comisión que es n"
+    },
+    {
+      "pair_id": "es_067",
+      "loanword_example": "roaming",
+      "native_example": "de itinerancia",
+      "loanword_wer": 1.0,
+      "native_wer": 0.9761904761904762,
+      "wer_difference": 0.023809523809523836,
+      "loanword_transcript": "Desde el punto de vista de la alta tasa de desempleo que se sigue manteniendo en Europa conviene. Recordar, como dice el refrán, que menor que él e uno mayor que Annerley Bird hatches the worm menor q",
+      "native_transcript": "Desde el punto de vista de la alta tasa de desempleo que se sigue manteniendo en Europa con viene. Recordar, como dice el refrán, que menor que N1 mayor que el pájaro que madruga atrapa al gusano meno"
+    },
+    {
+      "pair_id": "es_068",
+      "loanword_example": "tándem",
+      "native_example": "pareja",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "El deseo de mantener esta elevada ayuda por hectárea al cultivo del cañamo es en realidad fruto de. Una muy extraña colaboración entre aquellos que quieren la legalización del menor que él e uno mayor",
+      "native_transcript": "El deseo de mantener esta elevada ayuda por hectárea al cultivo del cañamo es en realidad fruto de. Una muy extraña colaboración entre aquellos que quieren la legalización del menor que N1 mayor que H"
+    },
+    {
+      "pair_id": "es_069",
+      "loanword_example": "gendarme",
+      "native_example": "agente de policía",
+      "loanword_wer": 1.0,
+      "native_wer": 0.9622641509433962,
+      "wer_difference": 0.037735849056603765,
+      "loanword_transcript": "y para economizar incluso menor que el 1 mayor que fue el menor que por litro 1 mayor que en la fabricación de las harinas disminuyeron la. Temperatura de cocción permitiendo así que sobreviviera el a",
+      "native_transcript": "Y para economizar incluso menor que N1 mayor que combustole o menor que, N1 mayor que en la fabricación de las harinas disminuyeron la. Temperatura de cocción permitiendo así que sobreviviera el agent"
+    },
+    {
+      "pair_id": "es_070",
+      "loanword_example": "platform",
+      "native_example": "platforma",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Cada país tiene su reglamento particular que regula la velocidad, seguridad y el menor que el 1 mayor que confort menor que por litro 1 mayor que del viaje. Solo se permite circular por la red si se c",
+      "native_transcript": "Cada país tiene su reglamento particular que regula la velocidad, seguridad y la menor que N1 mayor que comodidad menor que N1 mayor que del viaje. Sonos se permite circular por la red si se cumple en"
+    },
+    {
+      "pair_id": "es_071",
+      "loanword_example": "know how",
+      "native_example": "conocimiento",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "será necesario emprender el camino de las reformas que los estados miembros deberán acometer. Necesariamente para reducir las cargas que pesan sobre las empresas. Reducir el coste laboral, respaldar l",
+      "native_transcript": "será necesario emprender el camino de las reformas que los estados miembros de Verán a cometer. Necesariamente para reducir las cargas que pesan sobre las empresas. Reducir el coste laboral, respaldar"
+    },
+    {
+      "pair_id": "es_072",
+      "loanword_example": "impasse",
+      "native_example": "punto muerto",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Las líneas de alta velocidad deben concebirse sobre todo para el turismo. El menor que el 1 mayor que relax menor que por litro, 1 mayor que y el recreo de todos los ciudadanos europeos. Especialmente",
+      "native_transcript": "Las líneas de alta velocidad deben concebirse sobre todo para el turismo. El menor que N1 mayor que relajamiento menor que N1 mayor que y el recreo de todos los ciudadanos europeos. Especialmente de l"
+    },
+    {
+      "pair_id": "es_073",
+      "loanword_example": "think tank",
+      "native_example": "laboratorios de ideas",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Las diferencias nacionales representan un menor que él e uno mayor que handicap menor que por litro, uno mayor que importante para el desarrollo del transporte por ferrocarril en Europa, a pesar de la",
+      "native_transcript": "Las diferencias nacionales representan un menor que N1 mayor que obstáculo menor que N1 mayor que importante para el desarrollo del transporte por ferrocarril en Europa, a pesar de las numerosas venta"
+    },
+    {
+      "pair_id": "es_074",
+      "loanword_example": "pizza-service without delivery",
+      "native_example": "servicio de pizza sin reparto",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "La comisión debe encargarse en lo sucesivo con más empeño de que las tarifas llamadas. Menorque el 1 mayor que roaming menor que por litro, 1 mayor que que los operadores cobran a sus clientes de sien",
+      "native_transcript": "La Comisión debe encargarse en lo sucesivo con más empeño de que las tarifas llamadas menor que N1 mayor que D. Y Tinerancia menor que, N1 mayor que que los operadores cobran a sus clientes desciendan"
+    },
+    {
+      "pair_id": "es_075",
+      "loanword_example": "from stable to table",
+      "native_example": "del establo a la mesa",
+      "loanword_wer": 0.9230769230769231,
+      "native_wer": 0.9423076923076923,
+      "wer_difference": -0.019230769230769162,
+      "loanword_transcript": "Quiero hacer una advertencia a los que practican la táctica del menor que el 1 mayor que Salami menor que por litro 1 mayor que contra Estrasburgo. Y Luxemburgo.",
+      "native_transcript": "Quiero hacer una advertencia a los que practican la táctica del menor que N1 mayor que Salami menor que N1 mayor que contra Estrasburgo. Y Luxemburgo."
+    },
+    {
+      "pair_id": "es_076",
+      "loanword_example": "short sea port",
+      "native_example": "puerto del mar",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "La ambigüedad en lo que concierne a los límites del papel de la comisión resulta particularmente. Evidente en el ámbito de la seguridad y debería ser, de una vez por todas, claramente despejada, pues ",
+      "native_transcript": "La ambigüedad en lo que concierne a los límites del papel de la comisión resulta particularmente. Evidente en el ámbito de la seguridad y debería ser, de una vez por todas, claramente despejada, pues "
+    },
+    {
+      "pair_id": "es_077",
+      "loanword_example": "one stop shop",
+      "native_example": "de ventanilla única",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Señor Presidente, la resolución propuesta por la señora, la alumier se propone dar cobertura parlamentaria a la proclamación de la Unión Europea. Junto a la OTAN, como menor que él e uno mayor que gen",
+      "native_transcript": "Señor presidente, la resolución propuesta por la señora, la alumier se propone dar cobertura parlamentaria a la proclamación de la Unión Europea. Junto a la OTAN, como menor que N1 mayor que agente de"
+    },
+    {
+      "pair_id": "es_078",
+      "loanword_example": "dosier",
+      "native_example": "expediente",
+      "loanword_wer": 0.9555555555555556,
+      "native_wer": 0.9555555555555556,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Me satisfase comprobar el impacto producido por los conceptos menor que L2 mayor, que platform menor, que por litro 2 mayor, que y menor que L1 mayor, que Action menor, que por litro 1 mayor, que de P",
+      "native_transcript": "Me satisfase comprobar el impacto producido por los conceptos menor que N2 mayor que platforma menor que, N2 mayor que y menor que N1 mayor que acción menor que, N1 mayor que, de pequín."
+    },
+    {
+      "pair_id": "es_079",
+      "loanword_example": "on the job training",
+      "native_example": "capacitación en el trabajo",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Considero especialmente importante que se aprovecha en la reconstrucción el menor que el 1 mayor que no ha o menor que por litro 1 mayor que de. Las organizaciones europeas y de las organizaciones de ",
+      "native_transcript": "Considero especialmente importante que se aprovecha en la reconstrucción, el menor que N1 mayor que conocimiento menor que N1 mayor que. De las organizaciones europeas y de las organizaciones de los e"
+    },
+    {
+      "pair_id": "es_080",
+      "loanword_example": "míster",
+      "native_example": "señor",
+      "loanword_wer": 0.9111111111111111,
+      "native_wer": 0.9333333333333333,
+      "wer_difference": -0.022222222222222254,
+      "loanword_transcript": "Sin embargo, no cabe duda de qué. Desde el punto de vista institucional. El menor que el 1 mayor que ampas menor que por litro 1 mayor que en el que estamos es muy grave.",
+      "native_transcript": "Sin embargo, no cabe duda de que. Desde el punto de vista institucional, el menor que N1 mayor que punto muerto menor que, N1 mayor que en el que estamos es muy grave."
+    },
+    {
+      "pair_id": "es_081",
+      "loanword_example": "crash programme",
+      "native_example": "plan de choque",
+      "loanword_wer": 0.90625,
+      "native_wer": 0.9090909090909091,
+      "wer_difference": -0.0028409090909090606,
+      "loanword_transcript": "En la cumbre se trató de menor que L1 mayor que Think Tank menor que por litro 1 mayor que, de contactos con la SONG, de nuevas redes.",
+      "native_transcript": "En la cumbre se trató de menor que N1 mayor que laboratorios de ideas menor que, N1 mayor que, de contactos con la ZNG, de nuevas redes."
+    },
+    {
+      "pair_id": "es_082",
+      "loanword_example": "set top box",
+      "native_example": "receptor de señal de televisión",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "El señor Patan la ha calificado de embarazosa para la UE, y la comisión y la ha llamado la peor forma. De gestión de ayuda al desarrollo. El señor Nilsson se ha conformado con llamarla a menor que él ",
+      "native_transcript": "El señor Patan la ha calificado de embarazosa para la UE y la comisión y la ha llamado la peor forma. De gestión de ayuda al desarrollo. El señor Nilsson se ha conformado con llamarla a menor que N1 m"
+    },
+    {
+      "pair_id": "es_083",
+      "loanword_example": "cliché",
+      "native_example": "estereotipo",
+      "loanword_wer": 0.9183673469387755,
+      "native_wer": 0.8979591836734694,
+      "wer_difference": 0.020408163265306145,
+      "loanword_transcript": "La complejidad que existe en Europa en el reconocimiento de las calificaciones da lugar a documentos como éste, que, a pesar del esfuerzo del parlamento y de la propia comisión, es un auténtico menor ",
+      "native_transcript": "La complejidad que existe en Europa en el reconocimiento de las calificaciones da lugar a documentos como éste, que, a pesar del esfuerzo del parlamento y de la propia comisión, es un auténtico menor "
+    },
+    {
+      "pair_id": "es_084",
+      "loanword_example": "gay",
+      "native_example": "homosexuales",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "La reglamentación que hoy debatimos es una consecuencia directa de las recomendaciones de la. Investigación parlamentaria sobre la heve de Aquel entonces, en la que se fijaba la gestión integral de la",
+      "native_transcript": "La reglamentación que hoy debatimos es una consecuencia directa de las recomendaciones de la. Investigación parlamentaria sobre la heve de Aquel entonces, en la que se fijaba la gestión integral de la"
+    },
+    {
+      "pair_id": "es_085",
+      "loanword_example": "painful and hard work",
+      "native_example": "trabajo duro",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Estoy pensando, por ejemplo, en los monopolios del transporte por carretera. Con todas las consecuencias que ello conlleva para los precios con los que el cabotaje debe. Conectar el menor que el 1 may",
+      "native_transcript": "Estoy pensando, por ejemplo, en los monopolios del transporte por carretera. Con todas las consecuencias que ello conlleva para los precios con los que el cabotaje debe. Conectar el menor que N1 mayor"
+    },
+    {
+      "pair_id": "es_086",
+      "loanword_example": "doping",
+      "native_example": "dopaje",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "De ahí que el parlamento indique en su informe la necesidad de un planteamiento menor que el 1 mayor que 1 stop. Shop menor que por litro 1 mayor que al ofrecer servicios de transporte logístico a los",
+      "native_transcript": "De ahí que el parlamento indique en su informe la necesidad de un planteamiento menor que N1 mayor que de ventanilla. Única menor que N1 mayor que al ofrecer servicios de transporte logístico a los us"
+    },
+    {
+      "pair_id": "es_087",
+      "loanword_example": "chef de mission",
+      "native_example": "líder de la delegación",
+      "loanword_wer": 0.9824561403508771,
+      "native_wer": 0.9310344827586207,
+      "wer_difference": 0.051421657592256476,
+      "loanword_transcript": "Concluimos. En primer lugar, es necesario simplificar el reglamento con el fin de permitir la aceleración del proceso en Arasa. Una mayor transparencia, poniendo en ello los medios necesarios para la ",
+      "native_transcript": "Concluimos, en primer lugar, es necesario simplificar el reglamento con el fin de permitir la aceleración del proceso en arasa. Una mayor transparencia, poniendo en ello los medios necesarios para la "
+    },
+    {
+      "pair_id": "es_088",
+      "loanword_example": "adagio",
+      "native_example": "lema",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Esto solo podría llevarse a cabo, por ejemplo, como reciclaje o menor que el 1 mayor que on the job training menor que por litro 1 mayor que",
+      "native_transcript": "Esto solo podría llevarse a cabo. Por ejemplo, como reciclaje o menor que N1 mayor que capacitación en el trabajo menor que N1 mayor que."
+    },
+    {
+      "pair_id": "es_089",
+      "loanword_example": "buró",
+      "native_example": "órgano de dirección",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Esto nos lleva a una política exterior de la Unión Europea con otras pautas y nos lleva a la. Integración con el comisario para las relaciones exteriores. Menor que él e uno mayor que Mr. Menor que po",
+      "native_transcript": "Esto nos lleva a una política exterior de la Unión Europea con otras pautas y nos lleva a la. Integración con el comisario para las relaciones exteriores. Menor que N1 mayor que señor menor que N1 may"
+    },
+    {
+      "pair_id": "es_090",
+      "loanword_example": "carné",
+      "native_example": "acreditación",
+      "loanword_wer": 0.9620253164556962,
+      "native_wer": 0.9493670886075949,
+      "wer_difference": 0.012658227848101333,
+      "loanword_transcript": "Celebro la conferencia del Comisario Nilsson del 28 de septiembre de 2000, y espero que ella nos. Lleve a un menor que él e uno mayor que crash program menor que por litro, uno mayor que para afrontar",
+      "native_transcript": "Celebro la conferencia del Comisario Nilson del 28 de septiembre de 2000, y espero que ella nos. Lleve a un menor que N1 mayor que plan de choque menor que, N1 mayor que para afrontar estos problemas "
+    },
+    {
+      "pair_id": "es_091",
+      "loanword_example": "puzzle",
+      "native_example": "rompecabezas",
+      "loanword_wer": 0.9420289855072463,
+      "native_wer": 0.927536231884058,
+      "wer_difference": 0.01449275362318836,
+      "loanword_transcript": "Y tampoco es casualidad que el mismo Blair haya propuesto la difusión gratuita del menor que el 1 mayor que set top. Box menor que por litro 1 mayor que, prefigurándose una doble ventaja. Por un lado,",
+      "native_transcript": "Y tampoco es casualidad que el mismo Blair haya propuesto la difusión gratuita del menor que N1 mayor que receptor D. Señal de televisión menor que N1 mayor que, prefigurándose una doble ventaja, por "
+    },
+    {
+      "pair_id": "es_092",
+      "loanword_example": "cóctel",
+      "native_example": "bomba",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "No la comparto porque la comunicación vuelve a presentar el viejo menor que el 1 mayor que cliché menor que por litro 1 mayor que europeo en lo que. A la televisión y al cine se refiere. Intervención ",
+      "native_transcript": "No la comparto porque la comunicación vuelve a presentar el viejo menor que N1 mayor que estereotipo menor que N1 mayor que europeo N. Lo que a la televisión y al cine se refiere. Intervención pública"
+    },
+    {
+      "pair_id": "es_093",
+      "loanword_example": "benchmarking",
+      "native_example": "análisis comparativo",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "ha habido mucha información erronea al respecto. Su citada en parte por los conservadores del Reino Unido. En la prensa sensacionalista han aparecido titulares sobre complots vergonsosos de la Uge par",
+      "native_transcript": "ha habido mucha información erronea al respecto. Su citada en parte por los conservadores del Reino Unido. En la prensa sensacionalista han aparecido titulares sobre complots vergonsosos de la Uge par"
+    },
+    {
+      "pair_id": "es_094",
+      "loanword_example": "ballotage",
+      "native_example": "segunda vuelta",
+      "loanword_wer": 0.9014084507042254,
+      "native_wer": 0.8904109589041096,
+      "wer_difference": 0.010997491800115777,
+      "loanword_transcript": "Solo quiero aclarar que en la parte de Alemania de la que yo vengo esta palabra no significa otra. Cosa en inglés que menor que el 1 mayor que painful and hard work, menor que por litro 1 mayor que.",
+      "native_transcript": "Solo quiero aclarar que en la parte de Alemania de la que yo vengo esta palabra no significa otra. Cosa en inglés que menor que N1 mayor que trabajo duro menor que N1 mayor que"
+    },
+    {
+      "pair_id": "es_095",
+      "loanword_example": "flag of convenience",
+      "native_example": "bandera de conveniencia",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Es indudable que el menor que el 1 mayor que doping menor que por litro 1 mayor que está cambiando el deporte y que el deporte cambiará por él. Menor que el 2 mayor que doping menor que por litro 2 ma",
+      "native_transcript": "Es indudable que el menor que N1 mayor quedó paje menor que, N1 mayor que está cambiando el deporte y que el deporte cambiará por él. Menor que N2 mayor quedó paje menor que, N2 mayor que. Lo que nos "
+    },
+    {
+      "pair_id": "es_096",
+      "loanword_example": "public private partnership",
+      "native_example": "de colaboración público privada",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "No en vano. Los juegos olímpicos de Atlanta fueron calificados de guerra olímpica por el menor que el 1 mayor que chef de. Mission menor que por litro 1 mayor que Nirlandés, André Bolwiss. Seguramente",
+      "native_transcript": "No en vano. Los juegos olímpicos de Atlanta fueron calificados de guerra olímpica por el menor que N1 mayor que líder de la. Delegación menor que, N1 mayor que Nirlandés André Bolwiss. Seguramente los"
+    },
+    {
+      "pair_id": "es_097",
+      "loanword_example": "hip",
+      "native_example": "molonas",
+      "loanword_wer": 0.9117647058823529,
+      "native_wer": 0.9117647058823529,
+      "wer_difference": 0.0,
+      "loanword_transcript": "En la primera juventud, en la escuela, se repite el menor que él e uno mayor que adagio menor que por litro, uno mayor que de aprender para la vida.",
+      "native_transcript": "En la primera juventud, en la escuela, se repite el menor que N1 mayor que Lema menor que N1 mayor que de aprender para la vida."
+    },
+    {
+      "pair_id": "es_098",
+      "loanword_example": "score board",
+      "native_example": "tablero de resultados",
+      "loanword_wer": 0.9285714285714286,
+      "native_wer": 0.9122807017543859,
+      "wer_difference": 0.01629072681704269,
+      "loanword_transcript": "Necesitamos la formación permanente y la educación en cultura general para estar en condiciones de. O poner resistencia al intento de crear un estado europeo totalitario, cuyo menor que él e uno mayor",
+      "native_transcript": "Necesitamos la formación permanente y la educación en cultura general para estar en condiciones de O poner resistencia al intento de crear un estado europeo totalitario, cuyo menor que N1 mayor que ór"
+    },
+    {
+      "pair_id": "es_099",
+      "loanword_example": "performance reserve",
+      "native_example": "reserva de eficacia",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Señor Presidente, he votado a favor de este importante documento, cuya importancia, valga la redundancia, ha sido destacada por todos los oradores, y en particular por la señora, echaré quien ha dicho",
+      "native_transcript": "Señor Presidente, he votado a favor de este importante documento, cuya importancia, valga la redundancia, ha sido destacada por todos los oradores, y en particular por la señora, echaré quien ha dicho"
+    },
+    {
+      "pair_id": "es_100",
+      "loanword_example": "learning by doing",
+      "native_example": "aprender haciendo",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "y ese menor que él e uno mayor que pose el menor que por litro, uno mayor que requiere la revisión del convenio de Dublin. La decisión que hoy mismo, hemos adoptado de proponer una directiva sobre nor",
+      "native_transcript": "Y ese menor que N1 mayor que rompecabezas menor que, N1 mayor que requiere la revisión del convenio de Dublin. La decisión que hoy mismo, hemos adoptado de proponer una directiva sobre normas mínimas "
+    },
+    {
+      "pair_id": "es_101",
+      "loanword_example": "road pricing",
+      "native_example": "tarificación de rutas",
+      "loanword_wer": 0.9565217391304348,
+      "native_wer": 0.9787234042553191,
+      "wer_difference": -0.022201665124884307,
+      "loanword_transcript": "En un incendio intencionado, producido en un albergue de transeuntes de Wupertall, resultaron levemente heridos tres niños. Se había arrojado a la casa un menor que él e uno mayor que cocte el menor q",
+      "native_transcript": "En un incendio intencionado, producido en un albergue de transeuntes de Wupertall, resultaron levemente heridos tres niños. Se había arrojado a la casa una menor que N1 mayor que bomba menor que N1 ma"
+    },
+    {
+      "pair_id": "es_102",
+      "loanword_example": "single payment area",
+      "native_example": "zona única de pagos",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "quisiera reconocer y destacar que en este ámbito una ayuda especial debería favorecer a las mujeres. Como empresarias y quisiera subrayar también que nosotros. Como parlamento, deberíamos instar a la ",
+      "native_transcript": "quisiera reconocer y destacar que en este ámbito una ayuda especial debería favorecer a las mujeres. Como empresarias y quisiera subrayar también que nosotros. Como Parlamento, deberíamos instar a la "
+    },
+    {
+      "pair_id": "es_103",
+      "loanword_example": "round table",
+      "native_example": "mesa redonda",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Aprovecho esta ocasión para dirigir al Comisario Vergeujen una invitación para que haga de. Intermediario ante la Comisión y el propio Consejo de Europa, al objeto de que la Unión reexamine su posició",
+      "native_transcript": "Aprovecho esta ocasión para dirigir al Comisario Vergeujen una invitación para que haga de Intermediario ante la Comisión y el propio Consejo de Europa, al objeto de que la Unión reexamine su posición"
+    },
+    {
+      "pair_id": "es_104",
+      "loanword_example": "smoking gun",
+      "native_example": "prueba irrefutable",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Así mismo, existen diferencias en materia tecnológica entre el este y el oeste. Frente a sus cuatro conexiones a menor que el 1 mayor que Internet menor que por litro, 1 mayor que por cada 1000 habita",
+      "native_transcript": "Así mismo, existen diferencias en materia tecnológica entre el este y el oeste. Frente a sus cuatro conexiones a menor que N1 mayor que Internet menor que N1 mayor que por cada 1000 habitantes. Nosotr"
+    },
+    {
+      "pair_id": "es_105",
+      "loanword_example": "end of live vehiculs",
+      "native_example": "vehículos al final de su vida útil",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Es muy importante que no se trate de una menor que L1 mayor que Flag of Convenience menor que por litro 1 mayor que. Sino que se apliquen aquí realmente todas las medidas que prescribe el menor que L2",
+      "native_transcript": "Es muy importante que no se trate de una menor que N1 mayor que bandera de conveniencia menor que N1 mayor que. Sino que se apliquen aquí realmente todas las medidas que prescriben el menor que N2 may"
+    },
+    {
+      "pair_id": "es_106",
+      "loanword_example": "black boxes",
+      "native_example": "cajas negras",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Por ello, las previsiones financieras no nos parecen suficientes, pues el hueco existente entre las necesidades diagnosticadas de infraestructuras y los instrumentos. De financiación existentes en la ",
+      "native_transcript": "Por ello, las previsiones financieras no nos parecen suficientes, pues el hueco existente entre las necesidades diagnosticadas de infraestructuras y los instrumentos. Definanciación existente es en la"
+    },
+    {
+      "pair_id": "es_107",
+      "loanword_example": "light",
+      "native_example": "bajos en nicotina",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Recuerdo que mi colega Jopunstead luchó para que se aceptase el menor que l1 mayor que chip menor que por litro 1 mayor que protector.",
+      "native_transcript": "Recuerdo que mi colega Jopunstead luchó para que se aceptase el menor que N1 mayor que chip menor que, N1 mayor que protector."
+    },
+    {
+      "pair_id": "es_108",
+      "loanword_example": "madame",
+      "native_example": "señora",
+      "loanword_wer": 0.9859154929577465,
+      "native_wer": 0.971830985915493,
+      "wer_difference": 0.014084507042253502,
+      "loanword_transcript": "Tenemos la responsabilidad de ofrecerles a nuestros jóvenes la posibilidad de construir una. Sociedad futura donde la violencia y las agresiones no se consideren menor que él e uno mayor que hip menor",
+      "native_transcript": "Tenemos la responsabilidad de ofrecerles a nuestros jóvenes la posibilidad de construir una. Sociedad futura donde la violencia y las agresiones no se consideren menor que N1 mayor que molonas menor q"
+    },
+    {
+      "pair_id": "es_109",
+      "loanword_example": "droit de suite",
+      "native_example": "derecho de participación",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Así pues, creemos que, primero los índices comunes europeos, una labor que en este momento está en el camino de su consecución. Y también los objetivos nacionales. Es decir la necesidad de que cada pa",
+      "native_transcript": "Así pues, creemos que, primero los índices comunes europeos, una labor que en este momento está en el camino de su consecución. Y también los objetivos nacionales. Es decir la necesidad de que cada pa"
+    },
+    {
+      "pair_id": "es_110",
+      "loanword_example": "fair play",
+      "native_example": "juego limpio",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Si bien la fiebre a la vez del menor que el 1 mayor que clon menor que por litro 1 mayor que y de los OMG, parece haberse apoderado de la comisión. La señora, ponente llegó a un verdadero frenesí, aña",
+      "native_transcript": "Si bien la fiebre a la vez del menor que N1 mayor que Clon menor que, N1 mayor que y de los OMG, parece haberse apoderado de la comisión. La señora, ponente llegó a un verdadero frenesí, añadiendo al "
+    },
+    {
+      "pair_id": "es_111",
+      "loanword_example": "dumping",
+      "native_example": "competencia desleal",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "No obstante, votaré a favor de la denominada menor que el 1 mayor que performance recibe menor que por litro 1 mayor que. Porque creo que es necesario que en esta fase se nos facilite alguna informaci",
+      "native_transcript": "No obstante, votaré a favor de la denominada menor que N1 mayor que reserva de eficacia menor que N1 mayor que. Porque creo que es necesario que en esta fase se nos facilite alguna información más. Y "
+    },
+    {
+      "pair_id": "es_112",
+      "loanword_example": "maillot",
+      "native_example": "camiseta",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "En otras palabras, alrededor de la mesa de la casa europea común, algunos comerían a la carta y otros el menor que él e uno mayor que menú menor que por litro uno mayor que mínimo.",
+      "native_transcript": "En otras palabras, alrededor de la mesa de la casa europea común, algunos comerían a la carta y otros el menor que N1 mayor que menú menor que N1 mayor que mínimo."
+    },
+    {
+      "pair_id": "es_113",
+      "loanword_example": "bonus",
+      "native_example": "prima",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Para lanzar el sistema, la comisión formuló un núcleo duro de premisas. El sistema deberá basarse en un planteamiento menor que el 1 mayor que learning by doing menor que por litro 1 mayor que. Deberá",
+      "native_transcript": "Para lanzar el sistema, la comisión formuló un núcleo duro de premisas. El sistema deberá basarse en un planteamiento menor que N1 mayor que aprender haciendo menor que N1 mayor que. Deberá iniciarse "
+    },
+    {
+      "pair_id": "es_114",
+      "loanword_example": "hackers",
+      "native_example": "piratas informáticos",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Desde que está claro que el CO2 es el principal responsable de los cambios climáticos y que él. Transporte sigue aumentando. Hay que realizar sobre todo propuestas concretas sobre cómo limitar el tráf",
+      "native_transcript": "Desde que está claro que el CO2 es el principal responsable de los cambios climáticos y que él. Transporte sigue aumentando. Hay que realizar sobre todo propuestas concretas sobre cómo limitar el tráf"
+    },
+    {
+      "pair_id": "es_115",
+      "loanword_example": "online",
+      "native_example": "en línea",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "El objetivo debe ser una menor que L1 mayor que single parliamentaria menor que por litro 1 mayor que en la que los pagos transfronterizos tengan. Que cumplir los mismos requisitos y se les apliquen l",
+      "native_transcript": "El objetivo debe ser una menor que N1 mayor que zona única de pagos menor que, N1 mayor que en la que los pagos transfronterizos tengan. Que cumplir los mismos requisitos y se les apliquen los mismos "
+    },
+    {
+      "pair_id": "es_116",
+      "loanword_example": "bistec",
+      "native_example": "filete",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Tomado literalmente, este artículo significaría que un partido socialista no podría discriminar a conservadores que quisieran presentarse como candidatos suyos o que una compañía de opera tendría que ",
+      "native_transcript": "Tomado literalmente, este artículo significaría que un partido socialista no podría discriminar a conservadores que quisieran presentarse como candidatos suyos o que una compañía de opera tendría que "
+    },
+    {
+      "pair_id": "es_117",
+      "loanword_example": "tampón",
+      "native_example": "caching",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Me parece esencial el grupo de reflexión a nivel europeo con representantes de la UNG. Los interlocutores sociales, el Consejo y el Parlamento Europeo, quienes deben participar anualmente en una menor",
+      "native_transcript": "Me parece esencial el grupo de reflexión a nivel europeo con representantes de la Go-NG. Los interlocutores sociales, el Consejo y el Parlamento Europeo, quienes deben participar anualmente en una men"
+    },
+    {
+      "pair_id": "es_118",
+      "loanword_example": "striptease",
+      "native_example": "desnudo",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Los documentos salidos a la luz son no menos que un menor que el 1 mayor que es Mocking On, menor que por litro 1 mayor que.",
+      "native_transcript": "Los documentos salidos a la luz son no menos que una menor que N1 mayor que prueba irrefutable menor que N1 mayor que."
+    },
+    {
+      "pair_id": "es_119",
+      "loanword_example": "ranking",
+      "native_example": "clasificación",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Permiten comprender el terrible balance de estos dos meses de menor que el 1 mayor que intifada menor que por litro 1 mayor que 270 muertos, la mayoría palestinos, y cerca de 10.000 heridos, a menudo ",
+      "native_transcript": "Permiten comprender el terrible balance de estos dos meses de menor que N1 mayor que intifada menor que N1 mayor que 270 muertos, la mayoría palestinos y cerca de 10.000 heridos, a menudo baldados de "
+    },
+    {
+      "pair_id": "es_120",
+      "loanword_example": "ring",
+      "native_example": "cuadrilátero",
+      "loanword_wer": 1.0,
+      "native_wer": 0.975609756097561,
+      "wer_difference": 0.024390243902439046,
+      "loanword_transcript": "Señor acomisaría, disponemos de una directiva para el menor que el 1 mayor que en Doff Life Vehicles menor que por litro 1 mayor que.",
+      "native_transcript": "Señor acomisaría, disponemos de una directiva para los menor que N1 mayor que vehículos al final de su vida útil menor que N1 mayor que."
+    },
+    {
+      "pair_id": "es_121",
+      "loanword_example": "chat room",
+      "native_example": "canal de mensajería instantánea",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "En cambio, señor ministro, lamentablemente, debo decirlo, usted dice. Podríamos. Y habla usted de pavillones baratos. De menor que él e uno mayor que black boxas, menor que por litro, uno mayor que y ",
+      "native_transcript": "En cambio, señor ministro, lamentablemente, debo decirlo, usted dice, podríamos, y habla usted de pavillones baratos, de menor que N1 mayor que cajas negras menor que, N1 mayor que y de otras cosas."
+    },
+    {
+      "pair_id": "es_122",
+      "loanword_example": "call back",
+      "native_example": "retrollamada",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "En el informe se citan marcas de cigarrillos que se venden como suaves. Menorque el 1 mayor que light menor que por litro 1 mayor que u otros términos similares.",
+      "native_transcript": "En el informe se citan marcas de cigarrillos que se venden como suaves. Menorque N1 mayor que bajos en nicotina menor que N1 mayor que U otros términos similares."
+    },
+    {
+      "pair_id": "es_123",
+      "loanword_example": "naming and shaming",
+      "native_example": "nombrar y avergonzar",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Es una buena base para la política comunitaria del próximo año, y hay que decir también realmente. Que la idea comunitaria ha sido determinante durante todo el año. Durante todos los preparativos, en ",
+      "native_transcript": "Es una buena base para la política comunitaria del próximo año, y hay que decir también realmente. Que la idea comunitaria ha sido determinante durante todo el año. Durante todos los preparativos, en "
+    },
+    {
+      "pair_id": "es_124",
+      "loanword_example": "versus",
+      "native_example": "contra",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "sin un menor que el 1 mayor que droid de sweet menor que por litro 1 mayor que internacional. La realidad es que el mercado europeo del arte acabará en los paraízos fiscales.",
+      "native_transcript": "sin un menor que N1 mayor que derecho de participación menor que N1 mayor que internacional. La realidad es que el mercado europeo del arte acabará en los paraízos fiscales."
+    },
+    {
+      "pair_id": "es_125",
+      "loanword_example": "teenager",
+      "native_example": "adolescentes",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Y, en tercer lugar, los servicios prestados por empresas no europeas a empresas europeas estarían también sujetos a imposición, lo que establece la igualdad de condiciones el menor que el 1 mayor que ",
+      "native_transcript": "Y, en tercer lugar, los servicios prestados por empresas no europeas a empresas europeas estarían también sujetos a imposición, lo que establece la igualdad de condiciones, el menor que N1 mayor que j"
+    },
+    {
+      "pair_id": "es_126",
+      "loanword_example": "pub",
+      "native_example": "bar",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "La conclusión de las investigaciones es que el menor que L1 mayor que Domping menor que por litro 1 mayor que y el perjuicio no son discutibles y que el efecto de las medidas menor que L2 mayor que An",
+      "native_transcript": "La conclusión de las investigaciones es que la menor que N1 mayor que competencia desleal menor que N1 mayor que y el perjuicio no son. Discutible si que el efecto de las medidas menor que N2 mayor qu"
+    },
+    {
+      "pair_id": "es_127",
+      "loanword_example": "aquaplaning",
+      "native_example": "hidroplaneo",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Pero eso no necesariamente significa, estimados colegas, señor comisario, que se haya conseguido el menor que él e uno mayor que mayor menor que por litro, uno mayor que amarillón y que la victoria fi",
+      "native_transcript": "Pero eso no necesariamente significa, estimados colegas, señor comisario, que se haya conseguido la menor que N1 mayor, que camiseta menor, que N1 mayor, que amarilla, ni que la victoria final esté a "
+    },
+    {
+      "pair_id": "es_128",
+      "loanword_example": "chófer",
+      "native_example": "conductor",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Voy a puntualizar, en relación con el famoso menor que L1 mayor que bonus menor que por litro, 1 mayor que que ha levantado tantas críticas. Que cuando se justifica anualmente un 9% de menor que L2 ma",
+      "native_transcript": "Voy a puntualizar, en relación con la famosa menor que N1 mayor que prima menor que, N1 mayor que que ha levantado tantas críticas. Que cuando se justifica anualmente un 9% de menor que N2 mayor que p"
+    },
+    {
+      "pair_id": "es_129",
+      "loanword_example": "chofer",
+      "native_example": "conductor",
+      "loanword_wer": 0.9090909090909091,
+      "native_wer": 0.9090909090909091,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Por eso hay que combatir a los que se ha dado en llamar menor que l1 mayor que hackers menor que por litro 1 mayor que. Sancionando la oferta que hacen al público de medios para neutralizar las medida",
+      "native_transcript": "Por eso hay que combatir a los que se ha dado en llamar menor que N1 mayor que piratas informáticos menor que N1 mayor que. Sancionando la oferta que hacen al público de medios para neutralizar las me"
+    },
+    {
+      "pair_id": "es_130",
+      "loanword_example": "fast track",
+      "native_example": "de vía rápida",
+      "loanword_wer": 0.9444444444444444,
+      "native_wer": 0.9464285714285714,
+      "wer_difference": -0.001984126984126977,
+      "loanword_transcript": "y también que el acervo cultural que, por ejemplo, está almacenado en archivos de televisión. Se pueda abrir y que las bibliotecas puedan cumplir también en el mundo menor que él e uno mayor que onlin",
+      "native_transcript": "y también que el acervo cultural que, por ejemplo, está almacenado en archivos de televisión. Se pueda abrir y que las bibliotecas puedan cumplir también en el mundo menor que N1 mayor que N1 mayor qu"
+    },
+    {
+      "pair_id": "es_131",
+      "loanword_example": "stand by",
+      "native_example": "modo de espera",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Y para terminar, los italianos esperan que los OGM hagan que el menor que el 1 mayor que Vistec menor que por litro, 1 mayor que a la florentina no tenga peligro. Alguno, para poder consumir con toda ",
+      "native_transcript": "Y para terminar, los italianos esperan que los OGM hagan que el menor que N1 mayor que filete menor que, N1 mayor que a la florentina no tenga peligro. Algu uno, para poder consumir con toda tranquili"
+    },
+    {
+      "pair_id": "es_132",
+      "loanword_example": "hooligan",
+      "native_example": "fanáticos",
+      "loanword_wer": 0.9493670886075949,
+      "native_wer": 0.9493670886075949,
+      "wer_difference": 0.0,
+      "loanword_transcript": "En lo que a la memoria tampón, menor que el 1 mayor que tampón menor que por litro, 1 mayor que. Se refiere, hubiera deseado que este informe estuviera más cerca de la directiva sobre comercio electró",
+      "native_transcript": "en lo que a la memoria tampón, menor que N1 mayor que caching menor que, N1 mayor que. Se refiere, hubiera deseado que este informe estuviera más cerca de la directiva sobre comercio electrónico."
+    },
+    {
+      "pair_id": "es_133",
+      "loanword_example": "spamming",
+      "native_example": "correo basura",
+      "loanword_wer": 0.9622641509433962,
+      "native_wer": 0.9516129032258065,
+      "wer_difference": 0.01065124771758974,
+      "loanword_transcript": "Es casi como hacer un menor que él e uno mayor que streptis menor que por litro uno mayor que a oscuras perdón por la expresión, señor presidente.",
+      "native_transcript": "Es casi como hacer un menor que N1 mayor que desnudo menor que N1 mayor que a oscuras perdón por la expresión, señor presidente."
+    },
+    {
+      "pair_id": "es_134",
+      "loanword_example": "spam",
+      "native_example": "correos basura",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "No envano el interlocutor que aquí nos ocupa constituye el cuarto grupo del menor que el 1 mayor que ranking menor que por litro 1 mayor que. Mundial en estos ámbitos y, además, tiene un potencial de ",
+      "native_transcript": "No en vano el interlocutor que aquí nos ocupa constituye el cuarto grupo de la. Menor que N1 mayor que clasificación menor que, N1 mayor que mundial en estos ámbitos y. Además, tiene un potencial de c"
+    },
+    {
+      "pair_id": "es_135",
+      "loanword_example": "bloc noir",
+      "native_example": "bloque negro",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Es un pujil que está acostumbrado a dar golpes bajos ante la miranda indiferente del árbitro del. Menorque el 1 mayor que ring menor que por litro 1 mayor que y mientras los árbitros de los puntos dis",
+      "native_transcript": "Es un púgil que está acostumbrado a dar golpes bajos ante la miranda indiferente del árbitro del. Menor que N1 mayor que cuadrilátero menor que, N1 mayor que y mientras los árbitros de los puntos disc"
+    },
+    {
+      "pair_id": "es_136",
+      "loanword_example": "premier",
+      "native_example": "primer ministro",
+      "loanword_wer": 0.9047619047619048,
+      "native_wer": 0.8837209302325582,
+      "wer_difference": 0.021040974529346612,
+      "loanword_transcript": "Pero también sé que estamos en una partida de menor que L1 mayor que Poker menor que por litro 1 mayor que yo soy un pésimo jugador de Poker.",
+      "native_transcript": "Pero también sé que estamos en una partida de menor que N1 mayor que Poker menor que N1 mayor que y yo soy un pésimo jugador de Poker."
+    },
+    {
+      "pair_id": "es_137",
+      "loanword_example": "shock",
+      "native_example": "conmoción",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "No sé si sería posible. Como señala el diputado, aumentar esta apuesta creando. Además, un menor que L1 mayor que chatroom menor que por litro 1 mayor que.",
+      "native_transcript": "No sé si sería posible, como señala el diputado, aumentar esta apuesta creando. Además, un menor que N1 mayor que canal de mensajería instantánea menor que N1 mayor que."
+    },
+    {
+      "pair_id": "es_138",
+      "loanword_example": "trust",
+      "native_example": "grupo de empresas",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Sin embargo, esto no echa por tierra las exigencias que el parlamento puede formular claramente por medio del. llamado mecanismo menor que el 1 mayor que callback menor que por litro 1 mayor que.",
+      "native_transcript": "Sin embargo, esto no echa por tierra las exigencias que el parlamento puede formular claramente por medio del. Llamado mecanismo de menor que N1 mayor que retrollamada menor que N1 mayor que."
+    },
+    {
+      "pair_id": "es_139",
+      "loanword_example": "bridge",
+      "native_example": "ir demasiado lejos",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Para ello, el Tribunal de Cuentas debe pasar efectivamente a un menor que él e uno mayor que Namiglan Shaming menor que por litro uno mayor que consecuentes. Por tanto, poner públicamente en la picota",
+      "native_transcript": "Para ello, el Tribunal de Cuentas debe pasar efectivamente a un menor que N1 mayor que nombrar y avergonzar menor que N1 mayor que consecuentes. Por tanto, poner públicamente en la picota a los Estado"
+    },
+    {
+      "pair_id": "es_140",
+      "loanword_example": "cowboy",
+      "native_example": "vaqueros",
+      "loanword_wer": 0.9534883720930233,
+      "native_wer": 0.9302325581395349,
+      "wer_difference": 0.023255813953488413,
+      "loanword_transcript": "Asunto, impuesto sobre las transacciones financieras menor que él e uno mayor que ver sus menor que por litro, uno mayor que artículo 56, el artículo 56 del tratado. C, G, establece que.",
+      "native_transcript": "Asunto, impuestos sobre las transacciones financieras menor que N1 mayor que contra menor que, N1 mayor que artículo 56, el artículo 56 del tratado. Seje establece que..."
+    },
+    {
+      "pair_id": "es_141",
+      "loanword_example": "convoy",
+      "native_example": "caravana",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "En cambio, la utilización de un menor que el 1 mayor que microchip menor que por litro 1 mayor que el electrónico es más eficaz no solo en términos de identificación, sino que además es un método much",
+      "native_transcript": "En cambio, la utilización de un menor que N1 mayor que microchip menor que N1 mayor que electrónico es más eficaz no solo en términos de identificación, sino que además es un método mucho más humano p"
+    },
+    {
+      "pair_id": "es_142",
+      "loanword_example": "majors",
+      "native_example": "grandes estudios",
+      "loanword_wer": 0.9454545454545454,
+      "native_wer": 0.9464285714285714,
+      "wer_difference": -0.0009740259740259605,
+      "loanword_transcript": "Los jóvenes europeos siguen entrando aproximadamente a la misma edad en contacto con el alcohol. Como lo hacían antes, es decir, en la temprana edad de los menor que el 1 mayor que Tinayer menor que p",
+      "native_transcript": "Los jóvenes europeos siguen entrando aproximadamente a la misma edad en contacto con el alcohol. Como lo hacían antes, es decir, en la temprana edad de los menor que N1 mayor que adolescentes menor qu"
+    },
+    {
+      "pair_id": "es_143",
+      "loanword_example": "on line",
+      "native_example": "en línea",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "El etiquetado con observaciones de advertencia llegando incluso a realizarse la comparación. P. E. J. Una copa de menor que L1 mayor que Brandi menor que por litro 1 mayor que igual a 3 cañas de cerve",
+      "native_transcript": "El etiquetado con observaciones de advertencia llegando incluso a realizarse la comparación. P. E. J. Una copa de menor que N1 mayor que Brandi menor que N1 mayor que igual a 3 cañas de cerveza. Así l"
+    },
+    {
+      "pair_id": "es_144",
+      "loanword_example": "stress",
+      "native_example": "estrés",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Espero que no nos esté hablando de crear una convención que sea una especie de menor que él e uno mayor que pod menor que por litro, uno mayor que sin. Cerveza.",
+      "native_transcript": "Espero que no nos esté hablando de crear una convención que sea una especie de menor que ene uno mayor que bar menor que ene uno mayor que sin. Cerveza."
+    },
+    {
+      "pair_id": "es_145",
+      "loanword_example": "share fishermen",
+      "native_example": "pescadores autónomos",
+      "loanword_wer": 0.9591836734693877,
+      "native_wer": 0.9387755102040817,
+      "wer_difference": 0.020408163265306034,
+      "loanword_transcript": "Los neumáticos que compré tienen una resistencia de rodadura considerablemente inferior a la media. Además de unos niveles de adherencia y menor que él e uno mayor que aqua planing menor que por litro",
+      "native_transcript": "Los neumáticos que compré tienen una resistencia de rodadura considerablemente inferior a la media. Además de unos niveles de adherencia en menor que N1 mayor que hidroplaneo menor que N1 mayor que ba"
+    },
+    {
+      "pair_id": "es_146",
+      "loanword_example": "check and balance",
+      "native_example": "controles y equilibrios",
+      "loanword_wer": 0.9705882352941176,
+      "native_wer": 0.9565217391304348,
+      "wer_difference": 0.014066496163682829,
+      "loanword_transcript": "Por esto, fui a verle para felicitarle por su elección, junto con el menor que él e uno mayor que chofer menor que por litro, uno mayor que Hugo Gustinetti. Pensionista, que me dijo, como pensionista,",
+      "native_transcript": "Por esto, fui a verle para felicitarle por su elección, junto con el menor que N1 mayor que conductor menor que N1 mayor que Hugo Gustinetti. Pensionista, que me dijo, como pensionista, estoy muy a fa"
+    },
+    {
+      "pair_id": "es_147",
+      "loanword_example": "mail",
+      "native_example": "correo electrónico",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "La incorporación de indicadores de que el menor que el 1 mayor que Erberg menor que por litro 1 mayor que del asiento del ocupante delantero está. Desactivado.",
+      "native_transcript": "La incorporación de indicadores de que el menor que N1 mayor que Erbar menor que, N1 mayor que del asiento del ocupante del antero está, desactivado."
+    },
+    {
+      "pair_id": "es_148",
+      "loanword_example": "capacity building",
+      "native_example": "aumento de capacidad",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Sin embargo, he optado por votar en contra de los siguientes puntos. La propuesta de que el trabajador debe ser informado al menos con un día de anticipación. La propuesta de que el tiempo en que se e",
+      "native_transcript": "Sin embargo, he optado por votar en contra de los siguientes puntos. La propuesta de que el trabajador debe ser informado al menos con un día de anticipación. La propuesta de que el tiempo en que se e"
+    },
+    {
+      "pair_id": "es_149",
+      "loanword_example": "blue box",
+      "native_example": "caja azul",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Por esta razón, me he esforzado, en mi condición deponente. En elucidar con carácter previo e informal los puntos de vista del consejo y de la comisión en él. Marco del procedimiento menor que él e un",
+      "native_transcript": "Por esta razón, me he esforzado, en mi condición deponente, en elucidar con carácter previo e informar los puntos de vista del consejo y de la comisión en él. Marco del procedimiento menor que N1 mayo"
+    },
+    {
+      "pair_id": "es_150",
+      "loanword_example": "kamikaze",
+      "native_example": "suicida",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Este tipo de ayudas. Como ustedes saben, están condicionadas por ciertas exigencias de política económica y se proponen dentro de un. Programa de menor que L1 mayor que Standby menor que por litro 1 m",
+      "native_transcript": "Este tipo de ayudas, como ustedes saben, están condicionadas por ciertas exigencias de política económica y se proponen dentro de un. Programa de menor que N1 mayor que modo de espera menor que, N1 ma"
+    },
+    {
+      "pair_id": "es_151",
+      "loanword_example": "glamour",
+      "native_example": "atractivo",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Por lo tanto, para mí el elemento más sorprendente y más choquantes de los acontecimientos de Genova ha sido ver. Como dentro de las fuerzas del orden bastó una tontería, un mero cambio de gobierno, u",
+      "native_transcript": "Por lo tanto, para mí el elemento más sorprendente y más chocantes de los acontecimientos de Genoa ha sido ver. Como dentro de las fuerzas del orden bastó una tontería, un mero cambio de gobierno, una"
+    },
+    {
+      "pair_id": "es_152",
+      "loanword_example": "made in",
+      "native_example": "hechas en",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "En efecto, creo que ambos sistemas son ineficaces a la hora de luchar contra el llamado menor que el 1 mayor que spamming menor que por litro 1 mayor que. Los verdaderos menor que el 2 mayor que spamm",
+      "native_transcript": "En efecto, creo que ambos sistemas son ineficaces a la hora de luchar contra el llamado menor que N1 mayor que correo basura menor que N1 mayor que. Los verdaderos menor que N2 mayor que remitentes de"
+    },
+    {
+      "pair_id": "es_153",
+      "loanword_example": "brainstorming",
+      "native_example": "tormenta de ideas",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Los políticos tenemos que acelerar el desarrollo y la divulgación de los productos técnicos que eliminan los menor que L1 mayor que spam menor que por litro 1 mayor que y las exigencias de control tal",
+      "native_transcript": "Los políticos tenemos que acelerar el desarrollo y la divulgación de los productos técnicos que eliminan los menor que N1 mayor que correos basura menor que N1 mayor que y las exigencias de control ta"
+    },
+    {
+      "pair_id": "es_154",
+      "loanword_example": "low cost carrier",
+      "native_example": "aerolínea de bajo coste",
+      "loanword_wer": 0.9787234042553191,
+      "native_wer": 0.9791666666666666,
+      "wer_difference": -0.00044326241134751143,
+      "loanword_transcript": "quisiera apuntar a la señora, portavoz del consejo que, en Genova, el ataque no fue en contra de menor que él e uno mayor que blógno ar menor que por litro uno mayor que, sino contra cuanto se manifes",
+      "native_transcript": "quisiera apuntar a la señora, portavoz del consejo que, en Genova, el ataque no fue en contra del menor que N1 mayor que bloque negro menor que, N1 mayor que. sino contra cuanto se manifestaban pacífi"
+    },
+    {
+      "pair_id": "es_155",
+      "loanword_example": "single audits",
+      "native_example": "auditorias únicas",
+      "loanword_wer": 0.9830508474576272,
+      "native_wer": 0.9830508474576272,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Se trata de un tema que se debatió en la cumbre entre el primer ministro italiano y él. Menorque él e uno mayor que premier menor que por litro, uno mayor que inglés. Un proyecto cuyo objetivo es crea",
+      "native_transcript": "Se trata de un tema que se debatió en la cumbre entre el primer ministro italiano y el menor que N1 mayor que primer. Ministro menor que N1 mayor que inglés, un proyecto cuyo objetivo es crear una org"
+    },
+    {
+      "pair_id": "es_156",
+      "loanword_example": "free riders",
+      "native_example": "polizones",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Tercero, no deben sufrir un menor que él e uno mayor que shock menor que por litro uno mayor que los que ya no van a disponer de esta cobertura porque en estas. Regiones se va a crear cierto eurocepti",
+      "native_transcript": "Tercero, no deben sufrir una menor que N1 mayor que con moción menor que N1 mayor que los que ya no van a disponer de esta cobertura porque N. Estas regiones se va a crear cierto euroescepticismo."
+    },
+    {
+      "pair_id": "es_157",
+      "loanword_example": "drafting sessions",
+      "native_example": "sesiones de redacción",
+      "loanword_wer": 0.9803921568627451,
+      "native_wer": 0.9807692307692307,
+      "wer_difference": -0.00037707390648566985,
+      "loanword_transcript": "La responsabilidad del menor que l1 mayor que trost menor que por litro 1 mayor que total fina ELF, ya culpable del naufragio del hérica, es total.",
+      "native_transcript": "La responsabilidad del menor que N1 mayor que grupo de empresas menor que N1 mayor que total Fina Elf. Ya culpable del naufragio del Erika. Es total."
+    },
+    {
+      "pair_id": "es_158",
+      "loanword_example": "think tank",
+      "native_example": "laboratorio de ideas",
+      "loanword_wer": 0.9666666666666667,
+      "native_wer": 1.0,
+      "wer_difference": -0.033333333333333326,
+      "loanword_transcript": "En mi opinión, esto es un menor que el 1 mayor que bridge menor que por litro 1 mayor que tu far.",
+      "native_transcript": "En mi opinión, esto es menor que N1 mayor que ir demasiado lejos menor que N1 mayor que."
+    },
+    {
+      "pair_id": "es_159",
+      "loanword_example": "workshop",
+      "native_example": "seminario",
+      "loanword_wer": 0.9444444444444444,
+      "native_wer": 0.9555555555555556,
+      "wer_difference": -0.011111111111111183,
+      "loanword_transcript": "Ahora que lo sé, uhan demostrado que no practican ninguna política de menor que él e uno mayor que cowboy menor que por litro, uno mayor que sino que. Recapacitan muy a fondo cada paso en la lucha con",
+      "native_transcript": "Ahora que lo sé, uhan demostrado que no practican ninguna política de menor que N1 mayor que vaqueros menor que, N1 mayor que sino que. Recapacitan muy a fondo cada paso en la lucha contra los terrori"
+    },
+    {
+      "pair_id": "es_160",
+      "loanword_example": "bistró",
+      "native_example": "taberna",
+      "loanword_wer": 0.95,
+      "native_wer": 0.95,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Hemos podido saber por los medios de comunicación que un menor que él e uno mayor que convoy menor que por litro uno mayor que está cruzando el paso de cae ver y avanza hacia el norte",
+      "native_transcript": "Hemos podido saber por los medios de comunicación que una menor que N1 mayor que caravana menor que N1 mayor que está cruzando el paso. De Caiver, y avanza hacia el norte."
+    },
+    {
+      "pair_id": "es_161",
+      "loanword_example": "cookies",
+      "native_example": "galletas digitales",
+      "loanword_wer": 1.0,
+      "native_wer": 0.9850746268656716,
+      "wer_difference": 0.014925373134328401,
+      "loanword_transcript": "Además de la mera exportación de las programaciones, los menor que el 1 mayor que Major's menor que por litro 1 mayor que están desarrollando la exportación a Europa de canales temáticos de televisión",
+      "native_transcript": "Además de la mera exportación de las programaciones, los menor que N1 mayor que grandes estudios menor que N1 mayor que están desarrollando la exportación a Europa de canales temáticos de Televisión A"
+    },
+    {
+      "pair_id": "es_162",
+      "loanword_example": "chequear",
+      "native_example": "consultar",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Por otro lado, las nuevas necesidades de información y cooperación judicial menor que el 1 mayor que online menor que por litro 1 mayor que menor que el 2 mayor que e intempo menor que por litro 2 may",
+      "native_transcript": "Por otro lado, las nuevas necesidades de información y cooperación judicial menor que N1 mallorque en línea menor que N1 mallorque menor que N2 mallorque y a tiempo menor que N2 mallorque que pueden g"
+    },
+    {
+      "pair_id": "es_163",
+      "loanword_example": "complot",
+      "native_example": "conspiración",
+      "loanword_wer": 0.9452054794520548,
+      "native_wer": 0.9315068493150684,
+      "wer_difference": 0.013698630136986356,
+      "loanword_transcript": "El método de coordinación abierta solo tiene éxito en tanto el menor que L1 mayor que stress menor que por litro 1 mayor que D. menor que L2 mayor que Convergens menor que por litro 2 mayor que contin",
+      "native_transcript": "El método de coordinación abierta solo tiene éxito en tanto el menor que N1 mayor que estrés menor que, N1 mayor que D. menor que N2 mayor que convergencia menor que, N2 mayor que continúe existiendo,"
+    },
+    {
+      "pair_id": "es_164",
+      "loanword_example": "crack",
+      "native_example": "crisis",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Me parece importante que volvamos a fijarnos en lo que yo he definido como el ámbito de aplicación. Del conjunto. ¿Por qué creo que se puede discutir sobre la pregunta de qué categorías se pueden exce",
+      "native_transcript": "Me parece importante que volvamos a fijarnos en lo que yo he definido como el ámbito de aplicación. Del conjunto. ¿Por qué creo que se puede discutir sobre la pregunta de qué categorías se pueden exce"
+    },
+    {
+      "pair_id": "es_165",
+      "loanword_example": "máster",
+      "native_example": "posgrado",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Pienso que está en juego el equilibrio de nuestras instituciones y que no podemos sustraernos al. Gran modelo norteamericano. Es el equilibrio de nuestras instituciones. El menor que el 1 mayor que ch",
+      "native_transcript": "Pienso que está en juego el equilibrio de nuestras instituciones y que no podemos sustraernos al. Gran modelo norteamericano, es el equilibrio de nuestras instituciones. Los menor que N1 mayor que con"
+    },
+    {
+      "pair_id": "es_166",
+      "loanword_example": "input",
+      "native_example": "datos de entrada",
+      "loanword_wer": 0.9183673469387755,
+      "native_wer": 0.9215686274509803,
+      "wer_difference": -0.003201280512204807,
+      "loanword_transcript": "Esta mañana he oído que ayer por la noche llegó un menor que él e uno mayor que mail menor que por litro uno mayor que con un anexo.",
+      "native_transcript": "Esta mañana he oído que ayer por la noche llegó un menor que N1 mayor que correo electrónico menor que N1 mayor que con un anexo."
+    },
+    {
+      "pair_id": "es_167",
+      "loanword_example": "kit",
+      "native_example": "botiquín",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Además, todos los capítulos de la agenda se refieren a los esfuerzos específicos en favor de los países en desarrollo, ya se trate del acceso de sus productos a los mercados. Del trato especial y dife",
+      "native_transcript": "Además, todos los capítulos de la agenda se refieren a los esfuerzos específicos en favor de los países en desarrollo, ya se trate del acceso de sus productos a los mercados. Del trato especial y dife"
+    },
+    {
+      "pair_id": "es_168",
+      "loanword_example": "cómic",
+      "native_example": "tebeo",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Esto está a sí mismo en consonancia con su resolución, en la que se exige un abandono de las medidas distorsionadoras de la competencia y corresponde a. Nuestro mandato que nos obliga a realizar negoc",
+      "native_transcript": "Esto está a sí mismo en consonancia con su resolución, en la que se exige un abandono de las medidas distorsionadoras de la competencia y corresponde a. Nuestro mandato que nos obliga a realizar negoc"
+    },
+    {
+      "pair_id": "es_169",
+      "loanword_example": "charter",
+      "native_example": "chárter",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "El plan Mitchell es bien intencionado porque pretende en primer lugar detener la masacre. Pero es un señuelo, ya que cada minía acuerdo concluido sobre una base tan restringida que daría a expensas de",
+      "native_transcript": "El plan Mitchell es bien intencionado porque pretende en primer lugar detener la masacre. Pero es un señuelo, ya que cada mini acuerdo concluido sobre una base tan restringida quedaría a expensas del "
+    },
+    {
+      "pair_id": "es_170",
+      "loanword_example": "amateur",
+      "native_example": "aficionado",
+      "loanword_wer": 0.9310344827586207,
+      "native_wer": 0.9655172413793104,
+      "wer_difference": -0.034482758620689724,
+      "loanword_transcript": "Esta exposición ha pretendido dotar de menor que el 1 mayor que glamor menor que por litro 1 mayor que a criminales presos que han cometido. Delitos atroces.",
+      "native_transcript": "Esta exposición ha pretendido dotar de menor que N1 mayor que atractivo menor que N1 mayor que a criminales presos que han cometido. Delitos atroces."
+    },
+    {
+      "pair_id": "es_171",
+      "loanword_example": "póster",
+      "native_example": "mural",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "desearía hacerle al alto representante. Señor Solana, una pregunta en relación con el famoso barco apresado. Carima, deduzco que aquellos que están ocupándose de constatar que las pruebas de la implic",
+      "native_transcript": "desearía hacerle al alto representante. Señor Solana, una pregunta en relación con el famoso barco apresado. Carima, deduzco que aquellos que están ocupándose de constatar que las pruebas de la implic"
+    },
+    {
+      "pair_id": "es_172",
+      "loanword_example": "yonqui",
+      "native_example": "drogradicto",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Este constituye un serio golpe contra la libertad de expresión en Rusia. En un país quedió a luz la menor que él e uno mayor que perestroica menor que por litro uno mayor que y despertó al calor de es",
+      "native_transcript": "Este constituye un serio golpe contra la libertad de expresión en Rusia. En un país que dio a luz la menor que N1 mayor que perestroica menor que, N1 mayor que y despertó al calor de esta."
+    },
+    {
+      "pair_id": "es_173",
+      "loanword_example": "tawny",
+      "native_example": "tawny",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Es un hecho conocido, por ejemplo, que la industria del whisky es cosés depende sobre manera del transporte por ferrocarril para llevar. El whisky es cosés de menor que el 1 mayor que malta menor que ",
+      "native_transcript": "Es un hecho conocido, por ejemplo, que la industria del whisky escoce es depende sobre manera del transporte por ferrocarril para llevar. El whisky escoce es de menor que N1 mayor que alta menor que N"
+    },
+    {
+      "pair_id": "es_174",
+      "loanword_example": "catering",
+      "native_example": "servicio de comidas",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Después del debate que celebraremos mañana en el grupo de trabajo interinstitucional. Un debate menor que el 1 mayor que brainstorming menor que por litro 1 mayor que sobre las prioridades de la polít",
+      "native_transcript": "Después del debate que celebraremos mañana en el grupo de trabajo interinstitucional. Un debate de menor que N1 mayor que tormenta de ideas menor que N1 mayor que sobre las prioridades de la política "
+    },
+    {
+      "pair_id": "es_175",
+      "loanword_example": "sándwich",
+      "native_example": "bocadillo",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Hemos observado en los últimos 10 años una duplicación de los movimientos de aviones y. Possiblemente quizás necesitamos una nueva duplicación en poco tiempo. Pues el volar es algo cotidiano. Pienso e",
+      "native_transcript": "Hemos observado en los últimos 10 años una duplicación de los movimientos de aviones y. Possiblemente quizás necesitamos una nueva duplicación en poco tiempo. Pues el volar es algo cotidiano. Pienso e"
+    },
+    {
+      "pair_id": "es_176",
+      "loanword_example": "bulevar",
+      "native_example": "avenida",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "En lo referente a la cuestión del método das del tribunal de cuentas, por supuesto estamos. Dispuestos a seguir más intensamente este concepto y la idea de las menor que L1 mayor que single audits men",
+      "native_transcript": "En lo referente a la cuestión del método das del tribunal de cuentas por supuesto estamos. Dispuestos a seguir más intensamente este concepto y la idea de las menor que N1 mayor que auditorias únicas "
+    },
+    {
+      "pair_id": "es_177",
+      "loanword_example": "ballet",
+      "native_example": "danza",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Por ejemplo, se puede incluir también a los pequeños productores. Haciendo lo posible para evitar los problemas relacionados con los menor que el 1 mayor que Free Riders, menor que por litro 1 mayor q",
+      "native_transcript": "Por ejemplo, se puede incluir también a los pequeños productores, haciendo lo posible para evitar los problemas relacionados con los menor que N1 mayor que polisones menor que N1 mayor que. Materia en"
+    },
+    {
+      "pair_id": "es_178",
+      "loanword_example": "casete",
+      "native_example": "cinta",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "y puesto que no se realizaron negociaciones en sentido propio. Los participantes en la conferencia se concentraron en diálogos de mesas redondas. Organizadas junto a los actos. Así como en encuentros ",
+      "native_transcript": "y puesto que no se realizaron negociaciones en sentido propio. Los participantes en la conferencia se concentraron en diálogos de mesas redondas. Organizadas junto a los actos, así como en encuentros "
+    },
+    {
+      "pair_id": "es_179",
+      "loanword_example": "tsunami",
+      "native_example": "maremoto",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Sería muy satisfactorio que se cruz un menor que él e uno mayor que think tank menor que por litro, uno mayor que compuesto de miembros de ONG. Profesores, personal de la administración y científicos ",
+      "native_transcript": "Sería muy satisfactorio que se crease un menor que N1 mayor que laboratorio de ideas menor que N1 mayor que compuesto de miembros de ONG. Profesores, personal de la administración y científicos junto "
+    },
+    {
+      "pair_id": "es_180",
+      "loanword_example": "spray",
+      "native_example": "aerosol",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "En el marco del informe de Helsinki sobre el deporte así como del foro europeo del deporte. Celebrado el 26 y 27 de octubre en Lille en especial en el menor que él e uno mayor que workshop menor que p",
+      "native_transcript": "En el marco del informe de Helsinki sobre el deporte así como del foro europeo del deporte. Celebrado el 26 y 27 de octubre en Lille en especial en el menor que N1 mayor que seminario menor que N1 may"
+    },
+    {
+      "pair_id": "es_181",
+      "loanword_example": "antidúmping",
+      "native_example": "anti competencia desleal",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Este es un punto fundamental para conseguir los dos objetivos que pretendemos a través de la coordinación de la política económica, que la política fiscal no entorpesca la política monetaria y que no ",
+      "native_transcript": "Este es un punto fundamental para conseguir los dos objetivos que pretendemos a través de la coordinación de la política económica, que la política fiscal no entorpesca la política monetaria y que no "
+    },
+    {
+      "pair_id": "es_182",
+      "loanword_example": "bobsleigh",
+      "native_example": "bobsled",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "algo que se ha desarrollado para una organización basada en una tecnología sofisticada no es. Necesariamente apropiado para el café de Joe en Luis Ham High Street, o para el menor que el 1 mayor que v",
+      "native_transcript": "Algo que se ha desarrollado para una organización basada en una tecnología sofisticada no es. Necesariamente apropiado para el café de Joe en Luis Ham High Street, o para la menor que N1 Mallorca Tabe"
+    },
+    {
+      "pair_id": "es_183",
+      "loanword_example": "influenza",
+      "native_example": "gripe",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Por último, creo que no escandalizaré a nadie diciendo que estoy de acuerdo con el ponente cuando dice en la. En Mienda 4 que, en el fondo, los menor que el 1 mayor que QQX menor que por litro, 1 mayo",
+      "native_transcript": "Por último, creo que no escandalizaré a nadie diciendo que estoy de acuerdo con el ponente cuando dice en la. En Mienda 4 que, en el fondo, las menor que N1 mayor que galletas digitales menor que N1 m"
+    },
+    {
+      "pair_id": "es_184",
+      "loanword_example": "mitin",
+      "native_example": "encuentro",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Desde donde me encuentro. Parece que la pantalla del menor que él e uno mayor que radar menor que por litro, uno mayor que se enciende por toda la Asamblea.",
+      "native_transcript": "Desde donde me encuentro, parece que la pantalla del menor que N1 mayor que radar menor que, N1 mayor que se enciende por toda la Asamblea."
+    },
+    {
+      "pair_id": "es_185",
+      "loanword_example": "revólver",
+      "native_example": "pistola",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Tengo que indicar además que existen algunas discrepancias más. Por ejemplo, el nuevo impuesto se aplica para la ginebra. El menor que el 1 mayor que vodka menor que por litro 1 mayor que licores, per",
+      "native_transcript": "Tengo que indicar además que existen algunas discrepancias más. Por ejemplo, el nuevo impuesto se aplica para la ginebra. El menor que N1 mayor que vodka menor que N1 mayor que helicores, pero no al m"
+    },
+    {
+      "pair_id": "es_186",
+      "loanword_example": "argot",
+      "native_example": "jerga",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Este sitio web se iniciará en Irlandez, aunque no excluyen que pronto haya una versión disponible. En inglés, de modo que los hablantes de otros idiomas también puedan menor que él e uno mayor que che",
+      "native_transcript": "Este sitio web se iniciará en Irlandez, aunque no excluyen que pronto haya una versión disponible. En inglés, de modo que los hablantes de otros idiomas también puedan menor que N1 mayor que consultar"
+    },
+    {
+      "pair_id": "es_187",
+      "loanword_example": "gángster",
+      "native_example": "mafioso",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Se ha hablado de un menor que él e uno mayor que complot menor que por litro uno mayor que para derrocar al régimen e incluso para asesinar al jefe del. Estado sin aportar la menor prueba. Contestigos",
+      "native_transcript": "Se ha hablado de una menor que N1 mayor que conspiración menor que N1 mayor que para derrocar al régimen, e incluso para asesinar al jefe. Del estado sin aportar la menor prueba, contestigos y acusado"
+    },
+    {
+      "pair_id": "es_188",
+      "loanword_example": "pull",
+      "native_example": "de tracción",
+      "loanword_wer": 0.9736842105263158,
+      "native_wer": 0.9487179487179487,
+      "wer_difference": 0.02496626180836714,
+      "loanword_transcript": "De hecho, el mundo de las finanzas vive actualmente una especie de menor que el 1 mayor que crack menor que por litro 1 mayor que rampante que recuerda la. Crisis de 1929 y las que siguieron.",
+      "native_transcript": "De hecho, el mundo de las finanzas vive actualmente una especie de menor que N1 mayor que crisis menor que, N1 mayor que rampante que recuerda la. crisis de 1929 y las que siguieron."
+    },
+    {
+      "pair_id": "es_189",
+      "loanword_example": "push",
+      "native_example": "empuje",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "De este modo crearemos familias universitarias a través de las fronteras que ofrecerán a los. Européos titulaciones de menor que él e uno mayor que más ter menor que por litro, uno mayor que y estarán",
+      "native_transcript": "De este modo crearemos familias universitarias a través de las fronteras que ofrecerán a los. Europeos titulaciones de menor que N1 mayor que posgrado menor que N1 mayor que y estarán abiertas a los e"
+    },
+    {
+      "pair_id": "es_190",
+      "loanword_example": "fine tuning",
+      "native_example": "operaciones de ajuste",
+      "loanword_wer": 1.0,
+      "native_wer": 0.972972972972973,
+      "wer_difference": 0.027027027027026973,
+      "loanword_transcript": "Cooperación es una palabra mágica, un menor que él e uno mayor que totem menor que por litro, uno mayor que que se repite y que a mí me gustaría que fuese más realidad de lo que es en estos. Momentos.",
+      "native_transcript": "Cooperación es una palabra mágica, un menor que N1 mayor que tot en menor que, N1 mayor que que se repite y que a mí me gustaría que fuese más realidad de lo que es en estos. Momentos."
+    },
+    {
+      "pair_id": "es_191",
+      "loanword_example": "tory",
+      "native_example": "conservador",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "A partir de ahí, señor presidente en ejercicio del Consejo, me permito recordarle que en la reunión a la que usted nos invitó gentilmente en Copenhague. Usted habló de tres fases en la presidencia dan",
+      "native_transcript": "A partir de ahí, señor presidente en ejercicio del Consejo, me permito recordarle que en la reunión a la que usted nos invitó gentilmente en Copenhague. Usted habló de tres fases en la presidencia dan"
+    },
+    {
+      "pair_id": "es_192",
+      "loanword_example": "comodoro",
+      "native_example": "capitán de navío",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "En este contexto, permítame, señor presidente, que me refiera a una frase que está en el programa, y que creo que es un error del plumífero que. La escribió, que dice que este proporciona la aportació",
+      "native_transcript": "En este contexto, permítame, señor presidente, que me refiera a una frase que está en el programa y que creo que es un error del plumífero que. La escribió que dice que este proporciona la aportación,"
+    },
+    {
+      "pair_id": "es_193",
+      "loanword_example": "permafrost",
+      "native_example": "permahielo",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "señora presidenta, mientras el dictador norcoreano Kim Jong-il paladea su menor que él e uno mayor que coñac menor que por litro uno mayor que francés de importación. Especial y saborea sus pizzas rec",
+      "native_transcript": "señora presidenta, mientras el dictador norcoreano Kim Jong-il paladea su menor que N1 mayor que Koñag menor que N1 mayor que francés de importación. Especial y saborea sus pizzas recién orneadas por "
+    },
+    {
+      "pair_id": "es_194",
+      "loanword_example": "bufete",
+      "native_example": "despacho",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Las violaciones y la violencia no solo afectan a sus organismos. Merceda al hambre y los campos de concentración, sino también a sus mentes, ya que se les ha lavado el cerebro y han quedado incapacita",
+      "native_transcript": "Las violaciones y la violencia no solo afectan a sus organismos. Merceda al hambre y los campos de concentración, sino también a sus mentes, ya que se les ha lavado el cerebro y han quedado incapacita"
+    },
+    {
+      "pair_id": "es_195",
+      "loanword_example": "streaming",
+      "native_example": "retransmisión por internet",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Los lugares en los que se celebraron también son simbólicos. El foro económico se reunió en la estación de menor que el 1 mayor que esquí menor que por litro 1 mayor que de Davos y el foro social mund",
+      "native_transcript": "Los lugares en los que se celebraron también son simbólicos. El foro económico se reunió en la estación de menor que N1 mayor que Esquim menor que N1 mayor que de Davos y el foro social mundial lo. Hi"
+    },
+    {
+      "pair_id": "es_196",
+      "loanword_example": "zombi",
+      "native_example": "muerto viviente",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "He tenido la impresión de estar comprobando la lista de contenido de un menor que el 1 mayor que quid menor que por litro 1 mayor que de primeros. Auxilios cuando se ha producido un accidente i. Por s",
+      "native_transcript": "He tenido la impresión de estar comprobando la lista de contenido de un menor que N1 mayor que Botiquín menor que N1 mayor que D. Primero sauxilios cuando se ha producido un accidente I. Por supuesto,"
+    },
+    {
+      "pair_id": "es_197",
+      "loanword_example": "tabloide",
+      "native_example": "prensa sensacionalista",
+      "loanword_wer": 1.0,
+      "native_wer": 0.9696969696969697,
+      "wer_difference": 0.030303030303030276,
+      "loanword_transcript": "La debilidad de la Uye contrasta con la valiente postura adoptada por los jugadores de. Menorque el 1 mayor que Cricket menor que por litro, 1 mayor que de Simbaabue. Henry Olonga y Andy Flower.",
+      "native_transcript": "La debilidad de la UE contrasta con la valiente postura adoptada por los jugadores de. Menorque N1 mayor que Cricket menor que, N1 mayor que de Simbaabue. Henry O'Longa y Andy Flower."
+    },
+    {
+      "pair_id": "es_198",
+      "loanword_example": "emails",
+      "native_example": "correos electrónicos",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Podemos mantener nuestras alianzas, señor presidente en ejercicio del Consejo, incluso con los Estados Unidos. Pero para citar un precedente histórico no fueron los amigos de Norteamérica quienes les ",
+      "native_transcript": "Podemos mantener nuestras alianzas, señor presidente en ejercicio del Consejo, incluso con los Estados Unidos. Pero para citar un precedente histórico no fueron los amigos de Norteamérica quienes les "
+    },
+    {
+      "pair_id": "es_199",
+      "loanword_example": "jets",
+      "native_example": "aviones",
+      "loanword_wer": 0.90625,
+      "native_wer": 0.921875,
+      "wer_difference": -0.015625,
+      "loanword_transcript": "Señor Presidente, el Parlamento Europeo ha publicado un menor que él e uno mayor que cómic menor que por litro uno mayor que titulado Troublad Waters con el fin de informar a los jóvenes sobre los tra",
+      "native_transcript": "Señor Presidente, el Parlamento Europeo ha publicado un menor que N1 mayor que TVO menor que N1 mayor que titulado Troublad Waters con el Finde, informar a los jóvenes sobre los trabajos del Parlament"
+    },
+    {
+      "pair_id": "es_200",
+      "loanword_example": "spa",
+      "native_example": "balenario",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "El lunes 3 de marzo de 2003, Francia y Alemania procedieron a la expulsión colectiva de 54. Nacionales del Senegal y de Cote Divuar, para lo que recurrieron a un vuelo menor que el 1 mayor que charter",
+      "native_transcript": "El lunes 3 de marzo de 2003, Francia y Alemania procedieron a la expulsión colectiva de 54. Nacionales del Senegal y de Cote Divuar, para lo que recurrieron a un vuelo menor que N1 mayor que Charter M"
+    },
+    {
+      "pair_id": "es_201",
+      "loanword_example": "jet society",
+      "native_example": "élite",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "décadas más tarde, cuando el pacto de Barsovia aún existía. Ciudadanos de Alemania Oriental participaron en un menor que él e uno mayor que picnic menor que por litro uno mayor que pan europeo a las o",
+      "native_transcript": "décadas más tarde, cuando el pacto de Barsovia aún existía. Ciudadanos de Alemania Oriental participaron en un menor que N1 mayor que picnic menor que N1 mayor que pan europeo a las orillas del. Lago "
+    },
+    {
+      "pair_id": "es_202",
+      "loanword_example": "premium",
+      "native_example": "de pago",
+      "loanword_wer": 0.9772727272727273,
+      "native_wer": 0.9777777777777777,
+      "wer_difference": -0.0005050505050504528,
+      "loanword_transcript": "Quizá el precio de una menor que él e uno mayor que pizza menor que por litro, uno mayor que por año para un hogar medio.",
+      "native_transcript": "Quizá el precio de una menor que N1 mayor que pizza menor que N1 mayor que por año para un hogar medio."
+    },
+    {
+      "pair_id": "es_203",
+      "loanword_example": "esprint",
+      "native_example": "empujón",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Parece ser que hace dos años se iniciaron allí las obras sin las licencias oportunas asilo. Afirman los demandantes, poniendo en peligro la vida de los menor que él e uno mayor que hamster menor que p",
+      "native_transcript": "Parece ser que hace dos años se iniciaron allí las obras sin las licencias oportunas asilo. Afirman los demandantes, poniendo en peligro la vida de los menor que N1 mayor que hamster menor que N1 mayo"
+    },
+    {
+      "pair_id": "es_204",
+      "loanword_example": "hiyab",
+      "native_example": "velo islámico",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "El objetivo de la igualdad de oportunidades en el deporte escolar, menor que el 1 mayor que a mater menor que por litro 1 mayor que y profesional, tiene como primera finalidad una integración más adec",
+      "native_transcript": "El objetivo de la igualdad de oportunidades en el deporte escolar, menor que N1 mayor que aficionado menor que, N1 mayor que y profesional, tiene como primera finalidad una integración más adecuada de"
+    },
+    {
+      "pair_id": "es_205",
+      "loanword_example": "debut",
+      "native_example": "estreno",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "señora presidenta, señora comisaria, señorías, cuando la estrella del menor que el 1 mayor que golf menor que por litro 1 mayor que sueca. Anika Saurestán, quiso competir con los hombres en el torneo ",
+      "native_transcript": "señora presidenta, señora comisaria, señorías, cuando la estrella del menor que N1 mayor que golf menor que N1 mayor que sueca. Anika Saurestán, quiso competir con los hombres en el torneo profesional"
+    },
+    {
+      "pair_id": "es_206",
+      "loanword_example": "neocon",
+      "native_example": "neoconservadoras",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Europa se ha autosignado el papel de menor que el 1 mayor que Sheriff menor que por litro 1 mayor que de los Estados Unidos. Especialmente después de la firma del acuerdo sobre cooperación en asuntos ",
+      "native_transcript": "Europa se ha auto asignado el papel de menor que N1 mayor que Sheriff menor que N1 mayor que de los Estados Unidos. Especialmente después de la firma del acuerdo sobre cooperación en asuntos penales y"
+    },
+    {
+      "pair_id": "es_207",
+      "loanword_example": "phishing",
+      "native_example": "ciberestafas",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "El segundo ejemplo se produjo en diciembre de 2001. Cuando mostré una fotografía tamaño menor que él e uno mayor que poster menor que por litro uno mayor que de una mujer torturada y la presidenta. Re",
+      "native_transcript": "El segundo ejemplo se produjo en diciembre de 2001. Cuando mostré una fotografía tamaño menor que N1 mayor que mural menor que N1 mayor que de una mujer torturada y la presidenta reaccionó. De la mism"
+    },
+    {
+      "pair_id": "es_208",
+      "loanword_example": "banners",
+      "native_example": "báners",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "El policía francés vigilará a un carterista. El policía alemán vigilará a un menor que él e uno mayor que jonky menor que por litro uno mayor que y el policía griego se limitará a observarles.",
+      "native_transcript": "El policía francés vigilará a un carterista. El policía alemán vigilará a un menor que N1 mayor que drogradicto menor que, N1 mayor que y el policía griego se limitará a observarles."
+    },
+    {
+      "pair_id": "es_209",
+      "loanword_example": "in crescendo",
+      "native_example": "al alza",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Entre estas denominaciones se encuentran las de menor que L1, mayor que Toni, menor que por litro 1, mayor que. Menor que L2, mayor que Ruby, menor que por litro 2, mayor que. Menor que L3, mayor que ",
+      "native_transcript": "Entre estas denominaciones se encuentran las de menor que N1 mayor, que Toni menor, que N1 mayor, que menor, que N2 mayor, que Ruby menor, que N2 mayor, que menor, que N3 mayor, que vintage menor, que"
+    },
+    {
+      "pair_id": "es_210",
+      "loanword_example": "jemer",
+      "native_example": "jemer",
+      "loanword_wer": 0.9487179487179487,
+      "native_wer": 0.9487179487179487,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Permítanme tomar algunos ejemplos en forma de personas del sector sanitario. Del menor que el 1 mayor que Catherine menor que por litro 1 mayor que a gran escala y del metal.",
+      "native_transcript": "Permítanme tomar algunos ejemplos en forma de personas del sector sanitario. Del menor que N1 mayor que servicio de comidas menor que N1 mayor que a gran escala y del metal."
+    },
+    {
+      "pair_id": "es_211",
+      "loanword_example": "link",
+      "native_example": "enlace",
+      "loanword_wer": 0.9433962264150944,
+      "native_wer": 0.9433962264150944,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Desde esta tribuna condenamos el menor que L1 mayor que pogromo menor que por litro 1 mayor que que continúa incluso hoy contra los luchadores. En el movimiento rural y exigimos que se le ponga fin de",
+      "native_transcript": "Desde esta tribuna condenamos el menor que N1 mayor que pogromo menor que, N1 mayor que que continúa incluso hoy contra los luchadores. Del movimiento rural y exigimos que se le ponga fin de inmediato"
+    },
+    {
+      "pair_id": "es_212",
+      "loanword_example": "folclore",
+      "native_example": "tradición",
+      "loanword_wer": 0.90625,
+      "native_wer": 0.8769230769230769,
+      "wer_difference": 0.029326923076923084,
+      "loanword_transcript": "En 1973, cuando el nieto de Winston Churchill le preguntó qué iba a ocurrir con los palestinos. Sharon contestó que no había motivo para preocuparse, que acabarían haciendo con ellos un menor que él e",
+      "native_transcript": "En 1973, cuando el nieto de Winston Churchill le preguntó qué iba a ocurrir con los palestinos. Sharon contestó que no había motivo para preocuparse, que acabarían haciendo con ellos un menor que N1 m"
+    },
+    {
+      "pair_id": "es_213",
+      "loanword_example": "flirtear",
+      "native_example": "coquetear",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "ha dicho usted que trabajará para protegerlas y preservarlas. Pero el trayecto del Justus Lipsius Alberleimant es algo más que el simple hecho de cruzar un. Menorque el 1 mayor que boulevar menor que ",
+      "native_transcript": "ha dicho usted que trabajará para protegerlas y preservarlas. Pero el trayecto del Justus Lipsius Albert Leimand es algo más que el simple hecho de cruzar una. Menorque N1 mayor que avenida menor que "
+    },
+    {
+      "pair_id": "es_214",
+      "loanword_example": "hándicap",
+      "native_example": "incapacidad",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "Me refiero, por ejemplo, al avienal de arte, la feria del libro, el festival de menor que el 1 mayor que vale y menor que por litro, 1 mayor que o la feria de muestras de la abana.",
+      "native_transcript": "Me refiero, por ejemplo, al avienal de arte, la feria del libro, el festival de menor que N1 mayor que danza menor que N1 mayor que o la feria de muestras de la abana."
+    },
+    {
+      "pair_id": "es_215",
+      "loanword_example": "magneto",
+      "native_example": "imán",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "La razón fue una menor que el 1 mayor que casete menor que por litro 1 mayor que grabada por un periodista de la televisión sueca, que le fue confiscada en la frontera.",
+      "native_transcript": "La razón fue una menor que N1 mayor que Cinta menor que N1 mayor que grabada por un periodista de la televisión sueca, que le fue confiscada en la frontera."
+    },
+    {
+      "pair_id": "es_216",
+      "loanword_example": "kiosco",
+      "native_example": "kiosko",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_217",
+      "loanword_example": "freelance",
+      "native_example": "autónomos",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_218",
+      "loanword_example": "bad banks",
+      "native_example": "bancos malos",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_219",
+      "loanword_example": "ticket",
+      "native_example": "vale",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_220",
+      "loanword_example": "blogger",
+      "native_example": "bloguero",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_221",
+      "loanword_example": "pivotar",
+      "native_example": "oscilar",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_222",
+      "loanword_example": "coaching",
+      "native_example": "asesoramiento",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_223",
+      "loanword_example": "autostop",
+      "native_example": "dedo",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    },
+    {
+      "pair_id": "es_224",
+      "loanword_example": "spyware",
+      "native_example": "programa espía",
+      "loanword_wer": 1.0,
+      "native_wer": 1.0,
+      "wer_difference": 0.0,
+      "loanword_transcript": "",
+      "native_transcript": ""
+    }
+  ],
+  "summary": {
+    "n_pairs": 225,
+    "mean_loanword_wer": 0.9822833306552103,
+    "mean_native_wer": 0.9783515948121536,
+    "std_loanword_wer": 0.04576139736683069,
+    "std_native_wer": 0.05826123072710145,
+    "wer_difference": 0.003931735843056727,
+    "preference": "native",
+    "effect_size": 0.07505392781803552,
+    "pairs_favoring_loanword": 19,
+    "pairs_favoring_native": 34
+  }
+}
